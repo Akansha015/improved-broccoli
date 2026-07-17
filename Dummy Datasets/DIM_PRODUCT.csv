@@ -1,0 +1,11 @@
+product_id,product_name,product_category,interest_rate_pct,is_active
+PRD001,Savings Account,Deposit,4.0,True
+PRD002,Current Account,Deposit,0.0,True
+PRD003,Fixed Deposit,Deposit,6.5,True
+PRD004,Recurring Deposit,Deposit,6.0,True
+PRD005,Personal Loan,Loan,11.5,True
+PRD006,Home Loan,Loan,8.5,True
+PRD007,Auto Loan,Loan,9.5,True
+PRD008,Credit Card,Card,24.0,True
+PRD009,Debit Card,Card,0.0,True
+PRD010,Business Loan,Loan,12.0,True

@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,gender,date_of_birth,email,phone_number,city,state,country,customer_segment,kyc_verified,onboarding_date
+CUST00001,Alan,Kim,Other,1949-10-18,kellyruiz@example.net,837-370-2851,Lake Elainefort,Oregon,India,SME,True,2023-08-29
+CUST00002,Lisa,Gonzales,Female,1962-05-07,jessica82@example.net,659-740-8215,Smallland,South Carolina,India,SME,True,2019-03-20
+CUST00003,Kevin,Mills,Male,2004-12-15,destiny35@example.org,947-202-2960x4432,Bakerton,Florida,India,SME,True,2017-01-08
+CUST00004,Elizabeth,Moore,Male,1954-03-14,robert55@example.com,985-710-6794,Jaredmouth,Alabama,India,Corporate,True,2024-08-14
+CUST00005,Sheila,Watson,Other,1961-11-27,steven17@example.org,(879)822-8777x2519,East Jeremystad,Missouri,India,Retail,False,2018-12-21
+CUST00006,Dennis,Campbell,Female,2006-02-18,kennedyjames@example.org,265.680.7412,East Fernandoside,Nebraska,India,Premium,True,2022-08-14
+CUST00007,Darrell,Ortiz,Female,2006-06-01,amoreno@example.org,+1-518-913-9890,Robertmouth,Montana,India,Corporate,True,2024-05-09
+CUST00008,Daniel,Morgan,Female,1960-05-11,derrickgonzalez@example.com,701.882.0433x97189,South Karen,California,India,Corporate,True,2020-10-18
+CUST00009,Angela,Harper,Male,1987-10-19,tthomas@example.org,001-707-805-6260,East James,New Jersey,India,SME,True,2023-05-14
+CUST00010,Joseph,Mccormick,Male,1973-12-06,freemancrystal@example.org,611-818-2422x412,New Laura,Oregon,India,Retail,True,2021-02-04
+CUST00011,Cassandra,Holland,Female,1979-09-14,cynthia07@example.com,+1-720-695-2004x61526,East Allenmouth,Pennsylvania,India,Premium,False,2020-05-22
+CUST00012,Jennifer,Jones,Male,1957-01-10,kathleenjackson@example.org,(610)233-9937x8861,Berryville,Nebraska,India,Corporate,True,2020-04-27
+CUST00013,James,Davis,Male,1966-02-11,xglover@example.org,578-461-7063x04891,East Natalie,Idaho,India,Premium,True,2019-11-18
+CUST00014,Cynthia,Gregory,Female,1996-01-24,christinaschultz@example.com,896-971-8325x8238,North Jeffrey,Illinois,India,SME,True,2024-11-14
+CUST00015,Joseph,Mitchell,Male,1967-04-06,ysanford@example.org,6076942007,Rickymouth,Minnesota,India,Retail,True,2024-02-12
+CUST00016,Tracy,Cummings,Female,1948-04-14,fergusonjessica@example.org,+1-865-339-8402x89141,Lake Heatherchester,Missouri,India,Premium,True,2020-05-28
+CUST00017,Rebecca,Douglas,Female,1978-11-19,katherine83@example.org,(684)963-9855,Diaztown,South Carolina,India,Premium,False,2017-12-23
+CUST00018,Meghan,Escobar,Other,1980-10-24,simsjohn@example.net,935-253-7950x209,Chaseberg,Pennsylvania,India,Corporate,False,2024-02-15
+CUST00019,Christopher,Marks,Female,1977-08-23,larry16@example.net,2269876811,Lynchstad,Rhode Island,India,Premium,True,2018-09-29
+CUST00020,Rodney,Cook,Male,1986-11-24,gary04@example.com,+1-215-569-5620x17537,Johnton,Texas,India,Retail,True,2020-03-07
+CUST00021,Joshua,Aguilar,Other,1977-12-12,mluna@example.net,001-604-953-1943x3750,West Darlene,Georgia,India,Retail,True,2023-10-13
+CUST00022,Adam,Thomas,Female,2005-05-06,ryan25@example.com,001-593-403-6149x872,North Christian,Pennsylvania,India,Premium,True,2022-07-02
+CUST00023,Kellie,Bailey,Other,1971-12-07,karen26@example.org,692-512-4938,East Jessica,West Virginia,India,Corporate,True,2019-10-01
+CUST00024,Dana,Ponce,Male,1988-09-16,jeffreymercer@example.org,+1-308-994-8706x05664,Lisaburgh,Rhode Island,India,Corporate,False,2024-02-28
+CUST00025,Jose,Hale,Female,1970-05-10,lawrencegary@example.com,558.703.0468x7506,North Jay,Washington,India,SME,True,2023-10-29
+CUST00026,Joyce,Myers,Male,1960-05-08,brooksdanielle@example.net,790-636-1332,North David,Oklahoma,India,Retail,True,2020-03-03
+CUST00027,Andrea,Larson,Other,1987-08-27,wheelerbrandon@example.org,510-376-0954,Stephenshire,Kansas,India,SME,False,2025-02-18
+CUST00028,Ronald,Hurley,Female,1996-03-25,williamsdarrell@example.com,335.305.8319x9717,North Shawnburgh,Indiana,India,Corporate,True,2018-11-25
+CUST00029,Alec,Collins,Other,1994-08-24,qmartinez@example.com,6068512070,Lake Laura,Massachusetts,India,SME,False,2020-03-30
+CUST00030,Charles,Bennett,Other,1968-05-12,jamiejennings@example.org,810-580-4661,Brettstad,Wisconsin,India,Corporate,True,2017-03-06
+CUST00031,Nicole,Conner,Female,1974-06-30,robert18@example.com,+1-990-776-7699x150,South Lisachester,Oklahoma,India,SME,True,2021-09-13
+CUST00032,Rebecca,Li,Other,1983-08-11,robertroach@example.net,001-431-610-9193,Donnaside,West Virginia,India,SME,True,2018-12-11
+CUST00033,Amy,Santiago,Male,1956-12-31,campbellkristen@example.com,(867)797-2320x024,Blairville,New Mexico,India,Retail,True,2021-11-22
+CUST00034,Mary,Calderon,Other,1985-05-01,chelseastrickland@example.net,498-222-7495x4508,Mayfort,Montana,India,Retail,False,2022-05-08
+CUST00035,Brandi,Rodgers,Male,1989-03-06,michaelortiz@example.org,388.706.5333,Mallorychester,Oklahoma,India,SME,True,2018-06-02
+CUST00036,Earl,Jennings,Male,1994-03-14,kelleyrenee@example.net,677.895.9959,New Kristinburgh,North Carolina,India,Corporate,True,2021-03-30
+CUST00037,David,Fox,Other,1945-07-28,arivera@example.org,921-770-7303x37933,Brendanstad,New Jersey,India,Corporate,False,2018-07-01
+CUST00038,Kyle,Lucas,Male,2007-11-29,meadowsmary@example.net,001-463-662-0501x5081,New Monique,Virginia,India,Retail,True,2021-10-27
+CUST00039,Rachel,Henderson,Female,1973-02-16,fhernandez@example.net,439.750.0334x234,Moorefort,New York,India,Retail,True,2023-06-21
+CUST00040,Laura,Cox,Male,1967-10-18,cummingscraig@example.com,+1-432-830-2410,West William,New Hampshire,India,Premium,True,2022-08-27
+CUST00041,Michelle,Cox,Male,1974-12-28,stephenmadden@example.com,+1-315-334-7355x2896,East Ericton,South Carolina,India,Retail,False,2023-04-11
+CUST00042,Rachel,White,Male,2003-02-16,lwilliams@example.org,(823)538-6559,Paulside,Idaho,India,Corporate,True,2024-02-01
+CUST00043,Jason,Lewis,Female,1987-07-30,michael56@example.net,2996384253,Jenniferhaven,Mississippi,India,Retail,False,2022-11-29
+CUST00044,John,Meza,Female,1977-07-05,daviskatherine@example.org,(489)873-1791,East Todd,Wyoming,India,Premium,True,2024-02-13
+CUST00045,Curtis,Tucker,Female,1994-04-24,christianelizabeth@example.org,001-885-278-7255x87774,South Ashley,Nevada,India,SME,True,2021-12-03
+CUST00046,Kimberly,Perez,Other,1964-12-27,michael79@example.com,833.473.6346,Port Jacobberg,Alabama,India,SME,True,2017-03-27
+CUST00047,Nicole,Taylor,Female,2001-06-08,watsonmatthew@example.org,(248)912-1478x539,North Tiffanyville,Maryland,India,Corporate,True,2021-12-05
+CUST00048,Richard,Jones,Male,1977-01-19,dross@example.com,495.967.7665x75460,Churchton,Delaware,India,Premium,True,2022-11-22
+CUST00049,Christine,Richard,Female,1983-12-09,evaughn@example.com,341.651.4888,Lake Michael,Kansas,India,SME,True,2020-05-20
+CUST00050,Eric,Garcia,Female,1946-04-27,danielhorton@example.org,511.715.0835,Aguirreton,Kentucky,India,SME,False,2021-11-03
+CUST00051,Sarah,Wise,Male,1992-10-30,dalepruitt@example.com,844-839-2840x445,South Melissafort,North Dakota,India,Retail,True,2022-02-13
+CUST00052,Michelle,Conley,Other,1985-04-04,ywhite@example.com,001-907-582-6333,Heatherbury,Idaho,India,SME,False,2019-05-17
+CUST00053,Theresa,Stephenson,Female,1964-09-06,huffmannichole@example.net,298.777.5153x66377,West Dale,Arkansas,India,Corporate,True,2019-05-12
+CUST00054,Lisa,Johnson,Other,1984-07-15,timothyfreeman@example.com,(892)840-7553,Heatherburgh,North Dakota,India,SME,False,2024-05-04
+CUST00055,Nicole,Rogers,Other,1943-07-22,qwilliams@example.net,+1-868-845-9090x22599,Jillville,Kentucky,India,Corporate,True,2021-11-30
+CUST00056,Angel,Miranda,Other,2007-06-05,alexander89@example.net,961.686.3715,Garciaburgh,Rhode Island,India,Corporate,False,2023-09-29
+CUST00057,Jill,Anderson,Male,1986-08-11,tiffanysantiago@example.com,421-582-0970,South Sierra,Kansas,India,Retail,False,2018-05-29
+CUST00058,Martin,Bennett,Other,1967-09-19,reynoldsjessica@example.com,264-733-4817,Johnside,Connecticut,India,Premium,True,2023-12-13
+CUST00059,Sarah,Martin,Other,1991-09-22,elizabeth62@example.net,502.456.6212x86716,Whitetown,Massachusetts,India,Corporate,True,2023-07-07
+CUST00060,Leah,Guerra,Male,2006-03-18,smithsarah@example.net,546.972.9949,Mercedesberg,Illinois,India,SME,True,2020-06-19
+CUST00061,Michelle,Wise,Other,1969-10-24,kchristian@example.org,930-927-1693x859,North Nicholas,Rhode Island,India,SME,True,2018-06-27
+CUST00062,Lisa,Lamb,Other,1941-04-04,vflores@example.com,590.414.7546x926,Sheltonview,North Dakota,India,Corporate,False,2017-09-22
+CUST00063,Joseph,Martin,Male,1958-02-19,hunterandrea@example.com,+1-667-362-9160x324,Hornborough,West Virginia,India,SME,False,2018-07-17
+CUST00064,Kristin,Kim,Male,1975-04-08,fmontoya@example.com,001-937-468-1511x856,Lake Jill,Illinois,India,Retail,True,2021-11-07
+CUST00065,Daniel,Jenkins,Female,1975-10-27,csolis@example.org,838-207-0176x563,East Theresa,Wisconsin,India,SME,True,2024-07-29
+CUST00066,Monica,Rhodes,Female,1980-01-07,hwest@example.com,3415257771,Kevintown,Rhode Island,India,Retail,False,2017-06-14
+CUST00067,Michele,Young,Female,1979-08-29,garciarobert@example.net,001-372-874-2209x124,Waynehaven,Colorado,India,Corporate,True,2017-06-12
+CUST00068,Jeffrey,Wallace,Other,1970-11-08,petersenlatoya@example.net,(210)542-7523,Romeroshire,Georgia,India,Corporate,True,2023-01-03
+CUST00069,Lisa,Mitchell,Other,1967-02-20,pamela83@example.net,508.516.4709x006,Alexandermouth,Florida,India,Corporate,True,2021-10-23
+CUST00070,Steven,Goodman,Other,1993-01-22,xclements@example.org,(333)410-6005x313,Port Gabrielstad,Montana,India,Retail,False,2024-12-12
+CUST00071,Kevin,Cole,Male,1980-07-25,meganrivera@example.net,001-820-868-1558x3938,Cannonstad,Alabama,India,SME,True,2021-05-05
+CUST00072,Laura,Ferguson,Other,1974-07-29,xmoran@example.net,733-215-5206,New Katiemouth,Alaska,India,Retail,True,2022-05-25
+CUST00073,Jeremy,Collins,Female,1963-12-31,wwilson@example.net,(937)331-4950x1364,Port Evelyn,Alabama,India,SME,True,2022-06-26
+CUST00074,Andrew,Stokes,Male,1942-03-19,aaronkelly@example.net,001-789-924-1956x252,Scottburgh,California,India,SME,True,2024-09-23
+CUST00075,James,Harrison,Male,1947-08-26,amy51@example.org,250-599-7683,Simmonsborough,Maine,India,Retail,True,2019-07-04
+CUST00076,Mark,Conley,Male,1968-10-29,travisunderwood@example.net,2914436391,New Joyce,Maryland,India,Premium,True,2019-02-18
+CUST00077,Michelle,Richardson,Female,2005-12-09,nrodriguez@example.org,(474)632-6303x975,Hallburgh,Arkansas,India,Corporate,True,2024-12-07
+CUST00078,Tammy,Valentine,Female,1948-06-07,davidphelps@example.org,508-864-0355x33803,Morsefort,Tennessee,India,SME,True,2018-08-04
+CUST00079,Joshua,Joyce,Female,2004-07-04,msummers@example.net,452.570.1713x02321,Lauraburgh,Texas,India,SME,False,2016-09-07
+CUST00080,Darlene,Murray,Male,1950-03-05,daniel60@example.net,881.467.4233,Ashleytown,Vermont,India,Retail,True,2022-11-02
+CUST00081,Ricardo,Campbell,Male,1961-10-01,bartonshannon@example.net,+1-834-449-7347x156,Millerfurt,New Jersey,India,Premium,False,2018-03-07
+CUST00082,Tina,Reyes,Other,1971-07-04,tamarasmith@example.net,476.489.6270x6614,Amyberg,Montana,India,Corporate,True,2020-08-04
+CUST00083,Amanda,Rose,Other,1954-08-10,tranryan@example.net,467-947-4689x715,North Destiny,Georgia,India,Premium,True,2023-03-18
+CUST00084,Sheila,Burch,Female,1973-05-19,xglass@example.org,823.800.8576,East Brittany,South Carolina,India,Corporate,True,2025-06-05
+CUST00085,Darrell,Montoya,Male,1972-12-02,jessicaanderson@example.com,001-556-874-9160x1692,North Marcuschester,Washington,India,SME,True,2024-06-02
+CUST00086,Tara,Solis,Other,1970-05-03,william66@example.net,758-275-0663x370,North Edward,West Virginia,India,SME,False,2017-10-10
+CUST00087,Gregory,Taylor,Female,1987-12-03,joshuastuart@example.com,001-324-397-2439x920,Leslieshire,California,India,Retail,False,2018-04-11
+CUST00088,Sydney,Wright,Female,1962-03-24,iballard@example.com,+1-866-691-8362x6448,Hallbury,Maryland,India,Retail,True,2021-11-11
+CUST00089,Joseph,Davidson,Other,1960-12-16,megan85@example.net,001-961-219-5243x6402,Barnettberg,West Virginia,India,Premium,True,2021-04-26
+CUST00090,Daniel,Sawyer,Female,1995-08-20,jamesweber@example.com,716-486-4622,Jacksonport,Tennessee,India,Premium,True,2024-10-10
+CUST00091,Ryan,Spencer,Male,1948-05-14,samantha22@example.net,001-223-472-8179x323,North Ryan,Texas,India,Corporate,True,2024-12-27
+CUST00092,Jessica,Garcia,Female,1998-04-15,jennifer58@example.com,001-334-767-9121x41614,West Elizabethhaven,Iowa,India,Retail,True,2019-03-29
+CUST00093,Lee,Singleton,Male,1984-08-08,icraig@example.com,2932771004,Lake Elizabethmouth,Arizona,India,SME,True,2023-12-24
+CUST00094,Catherine,Rosales,Male,1986-08-03,hstokes@example.org,938-706-9847,East Jamieville,Maine,India,Retail,True,2024-11-25
+CUST00095,William,Mitchell,Other,1951-09-20,jamesbrian@example.org,+1-765-755-5356x690,Lake Amanda,Washington,India,Premium,False,2017-12-29
+CUST00096,Paul,Hines,Other,2007-06-13,josephfloyd@example.com,607-562-0918,North Josephside,Oregon,India,Retail,True,2020-02-13
+CUST00097,Barbara,Nelson,Other,1957-02-16,dwayne04@example.org,(779)978-6305x050,Lake Melissa,California,India,SME,False,2020-09-08
+CUST00098,Jonathan,Whitehead,Female,1952-05-27,howardshaun@example.net,397.869.1567,Port Dawnburgh,Indiana,India,Retail,True,2021-01-27
+CUST00099,Jeanne,Hernandez,Other,1951-06-07,juliahoffman@example.org,993-428-9802x7148,North Stephanie,Maryland,India,Premium,True,2020-12-18
+CUST00100,Aaron,Kim,Other,1978-08-11,heather06@example.com,417.783.3321x160,Port Charles,Delaware,India,SME,True,2024-02-29
+CUST00101,Sara,Potts,Female,2005-09-19,rfrye@example.com,(343)747-1287x1539,Williamville,Alaska,India,Corporate,True,2023-07-05
+CUST00102,Amanda,Walker,Other,1956-04-22,smithjohn@example.net,(568)363-3414x1115,Amandachester,Indiana,India,Corporate,True,2021-04-11
+CUST00103,Jennifer,Hayes,Female,1968-02-01,ogreer@example.net,001-552-856-9040,Nicholsfurt,North Dakota,India,SME,True,2024-09-19
+CUST00104,Judy,Bailey,Female,1953-01-31,kari89@example.org,(455)628-9931x60875,Patriciaville,Oregon,India,SME,True,2017-09-12
+CUST00105,Emily,Johnson,Male,1984-02-04,kellythompson@example.net,777.629.4209,New Markside,New York,India,SME,True,2020-08-03
+CUST00106,Michael,Brown,Male,1969-12-04,lopezglenn@example.net,214.497.3746x05233,South Kyleport,Massachusetts,India,Premium,True,2022-04-29
+CUST00107,Chad,Shaw,Other,1942-07-12,bennettroy@example.net,364.620.8656x7566,Port Mary,Georgia,India,SME,True,2022-05-19
+CUST00108,Elizabeth,Young,Female,1982-04-20,david94@example.org,438-961-2590x4729,North Lauraburgh,South Dakota,India,Premium,True,2017-01-22
+CUST00109,Mark,Vang,Male,1953-12-16,steven20@example.org,001-874-823-3305x912,Ramoshaven,Ohio,India,SME,True,2022-06-15
+CUST00110,Lee,Brooks,Male,1980-10-23,candice94@example.com,+1-820-515-7201x85962,Sanchezmouth,New Mexico,India,Premium,True,2025-04-16
+CUST00111,Melanie,Johnson,Male,1966-12-25,charles58@example.org,3139674926,Kimberlyfurt,Florida,India,Premium,False,2019-02-24
+CUST00112,Jennifer,Galvan,Male,1988-06-18,abigailhartman@example.org,+1-264-975-0111x1783,Campbellfurt,Arizona,India,Retail,True,2020-01-12
+CUST00113,Kevin,Combs,Other,1954-07-15,zdaniels@example.org,319-426-7649x215,Kimberlyville,Pennsylvania,India,Corporate,False,2016-12-25
+CUST00114,Kyle,Santos,Male,1991-09-13,jeffrey35@example.com,(306)488-8718x9813,Ramseyborough,South Carolina,India,SME,True,2022-10-25
+CUST00115,Ricky,Moody,Other,1995-07-15,kelly98@example.com,+1-320-687-5102x932,Donnaville,Ohio,India,Corporate,True,2025-06-04
+CUST00116,Richard,Taylor,Female,1944-10-17,wilsonmichael@example.org,001-601-918-4582x60340,Lake Sarah,Nevada,India,Corporate,True,2018-05-04
+CUST00117,Kenneth,Mitchell,Other,1947-06-18,susanfleming@example.com,(597)358-5988,East Charles,Tennessee,India,Retail,True,2023-01-18
+CUST00118,David,Gallegos,Male,1999-11-02,hmoon@example.com,+1-603-403-2432x98395,North Kevin,Massachusetts,India,Corporate,False,2021-09-19
+CUST00119,Robert,Horton,Female,1953-04-03,amber40@example.net,001-896-418-4462x6714,North Justinview,Texas,India,Corporate,False,2019-11-14
+CUST00120,Shelby,Taylor,Female,1962-09-16,willie87@example.com,+1-431-843-5989,Port Teresa,Missouri,India,SME,False,2019-04-17
+CUST00121,Erica,Thornton,Other,1971-08-28,phillipsdenise@example.com,(356)360-9314,Jessicahaven,Maryland,India,Premium,True,2023-04-08
+CUST00122,Raven,West,Female,1958-05-20,vaughangary@example.net,+1-886-515-1554x23401,North Thomasmouth,Hawaii,India,SME,True,2021-09-17
+CUST00123,Christina,Smith,Other,1999-03-15,simsjason@example.net,(611)328-4971x8594,Port Kathleen,West Virginia,India,SME,True,2021-05-14
+CUST00124,Kevin,Miller,Female,1976-06-04,michellecoleman@example.org,8259625889,Barbarahaven,Texas,India,Corporate,True,2024-05-14
+CUST00125,Amy,Scott,Other,1984-01-01,amandapark@example.net,001-624-208-2226,Lake Eugeneborough,Vermont,India,Corporate,True,2018-12-23
+CUST00126,Aaron,Conley,Male,1981-02-18,elucas@example.net,001-853-596-7275x7844,Lake Andreaton,Florida,India,SME,True,2016-10-04
+CUST00127,Justin,Dunn,Other,1982-02-10,andrewlove@example.org,314-665-1113x1290,South Robert,Maine,India,SME,True,2022-08-27
+CUST00128,Russell,Acosta,Other,1980-06-16,jonesgregory@example.com,+1-370-868-2778,Lake Haleyburgh,Alabama,India,Corporate,True,2021-03-05
+CUST00129,Bethany,Rose,Male,1964-03-14,andrewsjeremy@example.com,2939068538,North Adamborough,Michigan,India,Premium,True,2022-09-20
+CUST00130,Diana,Rodriguez,Other,1998-01-14,ohughes@example.com,(283)821-5285,New Matthew,South Carolina,India,Premium,False,2022-02-24
+CUST00131,Steven,Roberts,Other,1982-07-10,ystewart@example.net,662.551.5381x4474,Lopezville,Virginia,India,SME,True,2021-08-23
+CUST00132,Scott,Turner,Female,1995-11-16,nicholsdarlene@example.net,9962348079,West Crystalmouth,Tennessee,India,Premium,True,2023-09-17
+CUST00133,Jason,Williams,Other,1988-07-19,avilabrenda@example.net,(709)275-4510x526,West John,Georgia,India,SME,False,2018-04-10
+CUST00134,Thomas,Barnes,Female,1960-10-07,howardwesley@example.com,367-931-8826,New Jennifer,Arkansas,India,Retail,False,2022-08-23
+CUST00135,Rachel,Bauer,Male,1982-04-29,catherine47@example.com,8244376545,Angelaburgh,North Dakota,India,Corporate,True,2018-09-17
+CUST00136,Laura,Bryant,Female,1946-04-21,bshort@example.com,+1-241-777-2256,Kirbyburgh,Idaho,India,SME,True,2016-07-28
+CUST00137,Gene,Rodriguez,Female,1949-08-25,amandataylor@example.com,001-531-934-0266x502,North Shannonside,Iowa,India,SME,True,2022-02-15
+CUST00138,Christopher,Stein,Male,1948-07-22,susan24@example.net,+1-341-267-8725x68621,Martinmouth,Michigan,India,SME,True,2024-10-20
+CUST00139,Zachary,Carlson,Female,1961-04-22,susan08@example.net,(225)880-3056,Mahoneybury,Iowa,India,Premium,True,2017-12-04
+CUST00140,Cynthia,Smith,Male,1952-12-27,davidsmith@example.net,344.671.6392x8234,Port Angela,Alaska,India,SME,True,2020-02-04
+CUST00141,Matthew,Robertson,Other,1987-09-11,fmedina@example.com,001-536-337-1892x392,Port Walter,Oregon,India,Retail,True,2017-08-12
+CUST00142,Loretta,Allen,Other,1975-04-12,kaitlinberger@example.com,(560)343-2609,Nunezborough,New York,India,Premium,True,2024-02-04
+CUST00143,Karen,Thomas,Female,1968-12-24,robertbrewer@example.net,9662843356,Port Timothy,Nevada,India,Corporate,False,2017-01-27
+CUST00144,Emily,Patterson,Other,1949-12-01,eugenewalker@example.com,260.241.4545x63502,New Matthewville,Nevada,India,Retail,False,2024-06-16
+CUST00145,Jeffrey,Mendez,Male,1966-08-20,dannylambert@example.net,4536474916,Thompsonmouth,Rhode Island,India,SME,True,2020-04-17
+CUST00146,James,Allen,Other,1953-03-04,yorksarah@example.net,755.541.1082x5559,East Ryanport,Connecticut,India,Retail,False,2019-12-30
+CUST00147,Andrew,Butler,Male,1983-10-03,enewman@example.com,+1-543-996-1129x1093,North Teresaborough,South Carolina,India,SME,True,2017-09-24
+CUST00148,John,Beck,Other,1987-09-11,kingjames@example.net,418-295-4738,Lake William,Kentucky,India,Retail,True,2017-06-06
+CUST00149,Thomas,Miller,Female,1984-06-02,wlynn@example.org,(336)884-8557,East Rachel,Oklahoma,India,Premium,True,2019-06-11
+CUST00150,Melissa,Villegas,Other,2008-07-14,craigharvey@example.org,476-688-0294,North Emily,South Carolina,India,SME,True,2024-08-24
+CUST00151,Charles,Jones,Other,1978-04-11,todd59@example.net,4909367881,West Rachael,Montana,India,Premium,True,2023-02-17
+CUST00152,Robert,Fox,Other,1973-11-02,heather29@example.net,001-286-986-6943x20293,Mclaughlinland,Florida,India,Retail,False,2022-09-12
+CUST00153,Crystal,Romero,Male,1950-01-30,lindsey62@example.org,684.243.4481x23083,Nguyentown,Oregon,India,SME,True,2020-03-12
+CUST00154,James,Mcneil,Male,1961-12-07,john36@example.com,+1-724-724-0338x1059,Cisnerosfort,Wyoming,India,Corporate,True,2019-01-15
+CUST00155,Heather,Spencer,Female,1971-03-18,dennis57@example.com,284-726-9450,Cruzton,Ohio,India,Corporate,True,2021-01-12
+CUST00156,Troy,Myers,Male,1944-03-09,thoward@example.com,642.540.8916,Camposstad,Arizona,India,SME,True,2024-11-17
+CUST00157,John,Harrison,Other,1964-12-15,thompsoncatherine@example.com,435.943.9627x365,North Cynthia,Tennessee,India,Retail,True,2025-01-22
+CUST00158,Diana,Reid,Other,1941-03-12,patriciagonzalez@example.net,472-672-2397,Port Destinyview,Mississippi,India,Corporate,True,2019-06-10
+CUST00159,Adam,Zavala,Male,1949-10-29,lunapatricia@example.net,3428269312,Port Charles,Montana,India,SME,True,2023-04-21
+CUST00160,Karen,King,Other,1995-12-23,hessbeth@example.net,876.818.2091,South Catherine,Ohio,India,Corporate,False,2019-10-07
+CUST00161,Kayla,Smith,Female,2006-01-30,rebeccaarnold@example.net,2102023142,Wilsonhaven,Florida,India,SME,False,2020-12-24
+CUST00162,Daniel,Kramer,Female,1974-11-29,jvaldez@example.com,485-613-2797,West Tarachester,Alabama,India,Retail,True,2017-06-09
+CUST00163,Ronald,Cooper,Male,1974-03-14,xwalker@example.net,372-830-8481x00184,New Heather,Colorado,India,Retail,True,2025-03-26
+CUST00164,Gregory,Quinn,Male,1987-02-06,dennis88@example.org,(603)503-6625,Donnaburgh,New Mexico,India,Premium,False,2018-10-31
+CUST00165,Susan,Fuller,Female,1968-10-21,acox@example.net,+1-761-372-1314x51951,Lake Lynnberg,Texas,India,Corporate,True,2020-06-01
+CUST00166,April,Ingram,Female,1997-08-27,melaniedrake@example.net,8924268592,Bennettfurt,Mississippi,India,Premium,True,2016-08-03
+CUST00167,Brent,Moss,Male,1973-10-09,katherinetaylor@example.org,+1-749-445-1475x41022,Gallagherstad,Kansas,India,Retail,True,2017-01-03
+CUST00168,John,Cook,Male,1946-03-01,ashleyknight@example.org,(877)711-9642x1522,East Marioborough,South Dakota,India,SME,False,2021-04-02
+CUST00169,Melinda,Williams,Male,1942-08-22,ccrosby@example.org,976-576-9523x66878,Christinashire,Alabama,India,Retail,True,2019-07-30
+CUST00170,Stephen,Payne,Other,1992-04-17,qhall@example.com,(719)968-9313x5030,West Mark,New Hampshire,India,Retail,True,2023-08-15
+CUST00171,Laurie,Li,Male,1960-05-27,bradclark@example.com,(810)555-2472,Emilytown,South Carolina,India,SME,True,2020-04-09
+CUST00172,Elizabeth,Thompson,Male,1959-03-26,dharrison@example.org,730.221.2606,Rojasberg,Nebraska,India,Premium,True,2021-04-26
+CUST00173,Vanessa,Maxwell,Other,1977-02-05,hoopermario@example.net,001-519-317-9202x521,South Josephfort,Nebraska,India,Corporate,False,2017-09-25
+CUST00174,Caitlin,Marshall,Female,1951-12-24,mary49@example.net,9968227284,Port Christina,Connecticut,India,Retail,True,2022-09-08
+CUST00175,Stephanie,Dominguez,Male,1971-08-22,nicholasgray@example.net,001-257-804-1200x9282,Garzaport,North Dakota,India,Retail,False,2019-10-03
+CUST00176,Patricia,Welch,Other,1991-01-12,blacknicholas@example.org,(478)549-8436x24186,Port Samuelfurt,Nevada,India,Corporate,True,2020-04-09
+CUST00177,Cheyenne,Cain,Male,1992-08-16,wgomez@example.com,(890)436-2891x7756,Smithtown,Oregon,India,Retail,True,2019-09-18
+CUST00178,Jennifer,Brown,Male,1977-12-03,aeaton@example.net,7562341115,Parkerfort,Michigan,India,Corporate,True,2019-06-19
+CUST00179,William,Parsons,Other,1948-03-28,scotthall@example.net,642.581.1390,Angieshire,New Mexico,India,Corporate,True,2017-12-03
+CUST00180,Maria,Ellis,Female,1948-04-22,jason22@example.com,+1-930-234-1990,Richardland,Georgia,India,Corporate,True,2024-07-25
+CUST00181,Amy,Carter,Other,1993-04-01,guerrerorobert@example.com,5517405468,Port Charlene,Wisconsin,India,SME,True,2024-04-16
+CUST00182,Phyllis,Williams,Male,1996-07-10,olsontimothy@example.org,001-965-221-5681x82096,Danielmouth,Wisconsin,India,Premium,True,2018-11-17
+CUST00183,Julia,Gonzalez,Female,1965-06-27,deborahjenkins@example.org,722-971-1332x2889,West Mary,Tennessee,India,Premium,True,2023-06-20
+CUST00184,Thomas,Williams,Other,1996-06-24,andersonbrittany@example.org,(554)359-6063,Jamieshire,Washington,India,SME,True,2021-11-02
+CUST00185,Jonathon,Mahoney,Other,1943-05-16,macdonalddylan@example.org,(997)310-2481,South Kellyshire,Tennessee,India,Premium,False,2020-10-15
+CUST00186,John,Robertson,Female,1989-06-07,sandra86@example.net,452.942.1495x511,West Kellytown,Wyoming,India,Premium,True,2019-03-16
+CUST00187,Dana,Hays,Male,1977-09-10,johnsjessica@example.com,874-472-1970x546,Lake Danielle,Maine,India,Premium,True,2017-10-31
+CUST00188,Katie,Daniels,Other,2007-11-06,robinsoncatherine@example.com,258.595.5168x740,Liumouth,Alabama,India,Retail,False,2024-03-03
+CUST00189,Adrienne,King,Other,1947-07-04,ajackson@example.net,001-880-921-4629x613,North Mary,Maryland,India,SME,True,2018-05-10
+CUST00190,Courtney,Mullins,Other,1996-12-26,laurahoover@example.org,+1-815-777-8711x21663,East Raymondmouth,Kansas,India,Premium,True,2021-04-20
+CUST00191,Joshua,Lee,Male,1991-08-20,gary57@example.net,955-297-3714,South Ricardoside,Maryland,India,SME,True,2024-09-30
+CUST00192,Chris,Kelly,Other,1960-10-14,hallpaul@example.org,+1-827-223-5909,North Maryburgh,New York,India,Premium,True,2025-07-09
+CUST00193,Justin,Norman,Female,2008-06-29,harrismichele@example.net,(467)330-3064x421,Amandaview,Kentucky,India,Premium,True,2016-09-09
+CUST00194,Joseph,Glenn,Female,1971-02-15,mserrano@example.org,861-747-6834x201,Abigailbury,Delaware,India,SME,True,2023-07-09
+CUST00195,Luis,Rivera,Other,1964-03-30,thomasmendez@example.org,001-242-535-6778x26596,New Natalieshire,Virginia,India,Corporate,True,2024-01-25
+CUST00196,Amber,Martinez,Other,1996-01-30,davisdonna@example.net,499-925-5027,Port Elizabeth,Hawaii,India,SME,False,2023-12-04
+CUST00197,Devon,Richardson,Female,1970-05-26,princekimberly@example.net,816-448-0727x91033,West Timothyside,Massachusetts,India,Corporate,True,2024-05-05
+CUST00198,Jesse,Preston,Female,2008-02-17,xboyd@example.org,+1-663-353-3905x504,New Brooke,Iowa,India,Retail,False,2023-02-10
+CUST00199,Heather,Paul,Other,1993-04-14,zperez@example.com,001-477-966-5586x851,Greenville,California,India,SME,True,2020-08-11
+CUST00200,Jasmine,Kline,Female,1956-08-27,zbell@example.net,(352)389-2866x46491,Robertbury,Texas,India,Corporate,False,2025-03-01
+CUST00201,Caleb,Hughes,Male,1995-09-02,colemanjonathan@example.org,909-261-7981,East Saramouth,Illinois,India,Premium,False,2020-03-18
+CUST00202,Rick,Beltran,Male,1980-07-09,campbellnancy@example.com,+1-846-833-7861x37157,Roseton,New Mexico,India,Retail,True,2016-12-12
+CUST00203,Amy,Crawford,Male,1964-05-20,jacob09@example.net,5532844446,East Brandonstad,Texas,India,SME,True,2022-02-20
+CUST00204,Robert,Jimenez,Male,1988-11-14,meyernicholas@example.org,(800)502-5895x52963,Wolffurt,South Carolina,India,Corporate,True,2023-10-30
+CUST00205,Jamie,Glass,Female,1983-07-28,robert12@example.com,+1-860-596-2626x582,New Pamelastad,Massachusetts,India,Corporate,False,2018-12-13
+CUST00206,Robert,Stone,Male,1951-10-30,jose86@example.net,728-519-6482,North Rhonda,Montana,India,SME,True,2024-10-13
+CUST00207,Rebecca,Owen,Other,1950-01-04,cheryl63@example.com,310-860-9209,Paulville,Connecticut,India,Corporate,True,2021-02-25
+CUST00208,Brandy,Acosta,Other,1954-08-04,jwhite@example.net,5278523343,Katrinaborough,Alabama,India,SME,True,2020-03-28
+CUST00209,Heather,Miller,Male,1954-08-12,tking@example.net,001-440-641-2091x17911,Irwinport,Arkansas,India,Corporate,True,2018-02-05
+CUST00210,Melissa,Morrison,Other,1944-07-30,kim62@example.net,321-917-5361x706,Coleton,New York,India,Premium,True,2023-09-18
+CUST00211,Kathy,Short,Male,1964-05-25,adkinssean@example.net,+1-213-366-5722x4029,Sloantown,New York,India,SME,True,2019-07-14
+CUST00212,Omar,Gardner,Male,1959-08-28,craigromero@example.com,257-499-8028x41390,New Thomaschester,New York,India,SME,True,2016-12-22
+CUST00213,Adam,Morris,Male,1977-03-06,martintamara@example.org,451.630.5231,North Danielborough,Illinois,India,Retail,True,2022-01-15
+CUST00214,Michael,Miller,Other,1962-07-20,morrowthomas@example.net,573-615-8477x686,Watsonville,Tennessee,India,Premium,False,2021-05-08
+CUST00215,Karen,Guerrero,Other,1988-06-01,qdavis@example.org,(534)961-9942,East Josephport,Hawaii,India,SME,True,2016-10-23
+CUST00216,Melissa,Parker,Male,1960-03-20,christopher06@example.com,(776)394-5919x66395,Stephanieview,California,India,Corporate,True,2022-01-06
+CUST00217,Stephanie,Morrison,Male,1958-09-20,jennifer90@example.org,220.384.9649x856,New Caitlin,New York,India,Corporate,False,2024-05-23
+CUST00218,Robert,Simmons,Male,1998-11-20,mgonzales@example.net,(756)425-3135,South Timothymouth,Minnesota,India,Corporate,True,2023-04-05
+CUST00219,Julie,Norris,Male,2007-07-22,james98@example.net,001-851-605-0537x95381,Hansenfurt,Arkansas,India,Retail,False,2018-06-14
+CUST00220,Amy,Bell,Female,1986-09-25,christinacraig@example.com,+1-738-731-8491x966,Fredton,Iowa,India,SME,True,2022-07-20
+CUST00221,Carrie,Williams,Male,1947-01-07,dianacantrell@example.org,330.977.0461,Thomasberg,Nebraska,India,Corporate,False,2016-08-24
+CUST00222,Jeffrey,Berg,Other,2006-01-04,kimberly56@example.com,(295)296-3904,West Reneechester,Colorado,India,Retail,True,2023-06-21
+CUST00223,Jeffrey,Gomez,Male,1993-12-20,aprilmclaughlin@example.org,342.860.8805x017,Taylorchester,Wisconsin,India,Retail,False,2022-04-13
+CUST00224,Ryan,Bolton,Female,2003-01-07,dunnjessica@example.net,001-644-955-6185x7906,East Sheila,Oregon,India,SME,False,2023-12-14
+CUST00225,Anthony,Hill,Other,2008-01-12,michael43@example.net,515.491.0300x2156,North Chelsea,Wisconsin,India,Corporate,True,2020-10-26
+CUST00226,Matthew,Whitney,Female,1999-07-02,shawnpowell@example.org,235-680-0401,Joeport,Texas,India,Premium,False,2020-11-25
+CUST00227,Erin,Gould,Male,1949-03-03,gregory81@example.net,945-396-4229,Mcguireview,Idaho,India,Corporate,True,2024-02-21
+CUST00228,Richard,Jones,Other,1999-06-08,gordonmatthew@example.org,(552)996-7188,Parkerfurt,Arizona,India,Premium,True,2023-12-06
+CUST00229,Frederick,Walsh,Male,1957-07-09,nancy94@example.net,+1-374-357-3144x15833,Ambermouth,Georgia,India,Premium,False,2021-09-20
+CUST00230,Tanner,Cox,Other,1988-11-30,kchurch@example.com,703.603.7637x1539,Carlachester,Vermont,India,Corporate,True,2020-12-02
+CUST00231,David,Owen,Other,1996-11-17,katherineali@example.com,001-572-881-2356x798,Georgebury,Michigan,India,Premium,True,2024-02-08
+CUST00232,Cindy,Shelton,Other,1992-04-27,bmosley@example.com,914.362.4912,West Adam,South Carolina,India,Retail,True,2019-07-27
+CUST00233,Anthony,Cisneros,Female,1986-07-11,scottpatrick@example.org,001-313-307-2407x8754,East Karlstad,West Virginia,India,Retail,True,2017-11-30
+CUST00234,Phillip,Thomas,Male,1973-10-28,laurengutierrez@example.com,(763)326-8685x074,North Gabriel,Pennsylvania,India,Corporate,True,2018-12-16
+CUST00235,Anne,Lawson,Female,1979-10-22,haynesjose@example.com,6669343629,North Joycefurt,Rhode Island,India,SME,False,2018-06-05
+CUST00236,Anthony,Harrington,Female,1958-10-25,rosskaitlyn@example.com,361.603.1310x09431,Lake Jack,Washington,India,Retail,True,2020-01-16
+CUST00237,Dawn,Johnson,Male,1968-09-16,spencergregory@example.com,596.466.1347,Port Carlosfort,California,India,Corporate,True,2018-12-21
+CUST00238,Derek,Jones,Male,1971-04-12,jeffery94@example.org,954.694.0128,Port Danielle,Pennsylvania,India,Premium,True,2016-08-28
+CUST00239,Steven,Osborne,Male,1983-08-18,victorgonzalez@example.net,001-832-751-2257x207,Simpsonchester,Illinois,India,Retail,True,2019-05-26
+CUST00240,Brent,Diaz,Other,2000-05-22,moniqueclark@example.org,2249120957,Amandaside,North Dakota,India,Corporate,False,2016-12-01
+CUST00241,Nicholas,Reyes,Female,1946-11-15,marykelly@example.org,471.400.9438,New Michael,New Mexico,India,Corporate,True,2018-05-19
+CUST00242,Jason,Bradley,Female,1975-08-09,moraemma@example.net,001-211-745-7758x47457,Jennifermouth,Illinois,India,SME,True,2023-04-27
+CUST00243,Mark,Jacobs,Female,1959-06-18,waustin@example.net,758-997-1480x2632,Georgeshire,Indiana,India,Premium,False,2019-12-09
+CUST00244,Kathleen,Shelton,Female,2004-03-18,charlesnathan@example.com,3396653136,Georgestad,New Jersey,India,Premium,True,2022-10-05
+CUST00245,Nicholas,Rush,Female,1965-08-21,kvillanueva@example.com,+1-587-282-4556x9644,Lake Michele,Arizona,India,Premium,True,2019-03-26
+CUST00246,Karen,Watson,Other,2005-02-27,wwhite@example.net,001-685-391-6795,South Darrellhaven,Illinois,India,Corporate,False,2021-02-14
+CUST00247,Marie,Hines,Male,1962-10-18,raymond92@example.org,4726728498,Tracyland,Maryland,India,Corporate,True,2025-05-23
+CUST00248,Johnny,Berry,Other,1940-09-16,imendoza@example.org,641.240.7034x9107,Jonesmouth,Washington,India,Premium,False,2021-09-11
+CUST00249,Christopher,Moreno,Other,1993-03-08,phillip27@example.org,(550)804-2548x82142,New Melissaton,Idaho,India,Corporate,False,2021-01-08
+CUST00250,Andrew,Sanders,Other,1990-05-14,astewart@example.org,001-814-830-7536,Kyleland,Maine,India,SME,False,2022-04-16
+CUST00251,Amber,Banks,Male,1990-03-31,nicolasgarcia@example.com,444-594-2965,Shaneport,Maryland,India,Corporate,False,2018-07-18
+CUST00252,Zoe,Wright,Male,1971-09-19,jacob43@example.com,426-883-4414x978,Thomasstad,Louisiana,India,Corporate,True,2018-10-19
+CUST00253,Michael,Wilson,Female,1985-09-14,vmullen@example.com,(912)287-5857x56766,West Kelsey,New Hampshire,India,Retail,True,2016-09-15
+CUST00254,Debra,Fitzgerald,Other,1964-11-25,victorclark@example.net,+1-706-412-9439,Samuelhaven,Maine,India,SME,True,2019-07-28
+CUST00255,Kimberly,Porter,Female,1944-11-05,michael64@example.com,+1-289-340-6260x787,Danielmouth,Oklahoma,India,Retail,True,2023-12-29
+CUST00256,Denise,Hughes,Male,1976-11-18,ashleykrause@example.net,7412591497,West Beverlyshire,Rhode Island,India,Premium,True,2023-05-23
+CUST00257,Karen,Hoffman,Male,1955-05-10,lisale@example.org,498-503-8287,Gonzalezport,Alabama,India,Premium,False,2016-12-11
+CUST00258,Stefanie,Green,Male,1969-10-04,mchase@example.org,+1-324-540-7931x10291,North Mathew,Wyoming,India,SME,True,2022-06-17
+CUST00259,James,Green,Male,1954-12-12,thomassmith@example.com,617.808.7601,Dixontown,Louisiana,India,Corporate,True,2020-06-05
+CUST00260,Andrew,Griffin,Other,1958-10-20,otaylor@example.net,423.584.9791x6202,East David,New York,India,Retail,True,2018-01-21
+CUST00261,Elijah,Davies,Female,1996-11-13,kristen44@example.net,(988)737-7441,South Christopher,Nevada,India,SME,True,2022-02-03
+CUST00262,David,Mitchell,Male,1963-07-05,rosshannah@example.org,+1-846-261-7662x04719,Lake Jameshaven,Alaska,India,Retail,True,2018-12-21
+CUST00263,Elizabeth,Hendricks,Female,1979-11-04,lisawoods@example.net,001-940-697-0527,South Sharon,New Hampshire,India,Corporate,False,2022-05-24
+CUST00264,Anne,Henry,Male,1979-01-15,colematthew@example.com,3254883586,Hunterburgh,West Virginia,India,Retail,False,2023-10-26
+CUST00265,Jeffery,Martinez,Female,1973-07-18,ann45@example.org,+1-925-495-7244x6176,West Laurafort,Ohio,India,SME,False,2016-12-08
+CUST00266,Holly,Farrell,Female,1963-12-01,rmartinez@example.net,001-888-342-5995,Gonzalezport,Nebraska,India,Corporate,True,2018-08-21
+CUST00267,Katie,Hayes,Male,1986-12-15,barbarasantos@example.net,5025311775,Whiteland,Florida,India,Corporate,True,2017-05-07
+CUST00268,Gary,Roach,Male,1943-11-01,tiffanymitchell@example.com,226-361-0941,Huntermouth,Wyoming,India,SME,False,2024-09-27
+CUST00269,Catherine,Wallace,Female,1947-04-25,champton@example.org,559.502.5176x298,Rickyborough,Iowa,India,Corporate,True,2021-12-10
+CUST00270,Julie,Miller,Other,1993-11-05,daustin@example.net,277-343-3268x319,Jessicafort,Massachusetts,India,Retail,True,2023-05-28
+CUST00271,Danny,Fleming,Male,1971-10-17,mirandadavidson@example.com,702.405.6981,North Williamville,California,India,Premium,True,2019-07-12
+CUST00272,Lori,Bruce,Male,1948-12-27,kwelch@example.com,+1-987-833-9785x59821,Rogerfort,Alabama,India,SME,True,2019-01-23
+CUST00273,Tami,Flores,Other,1998-11-11,millermatthew@example.com,+1-761-291-2841x1730,West Joshua,Vermont,India,Retail,True,2024-02-11
+CUST00274,Daniel,Reed,Other,1970-07-20,denise49@example.net,544.665.1241,Crawfordfort,New Mexico,India,Corporate,True,2016-09-11
+CUST00275,Anthony,Brown,Male,1940-08-02,cnelson@example.com,(590)781-9740x0564,Newtonburgh,Nebraska,India,Premium,False,2018-04-05
+CUST00276,Larry,Daniels,Male,2005-09-08,lgutierrez@example.org,001-302-838-5037x19905,Chapmanland,Massachusetts,India,Retail,True,2019-05-08
+CUST00277,Erica,Vance,Male,1954-04-19,jessicastanley@example.net,+1-591-787-2401x078,Jeffreyfurt,California,India,SME,True,2016-11-27
+CUST00278,Susan,York,Male,1987-05-14,clarkrandy@example.org,(274)830-0038x96087,New Cassandra,Wyoming,India,Corporate,True,2017-05-28
+CUST00279,Randy,Joseph,Female,1949-07-06,zunigathomas@example.org,001-762-866-8217x19553,Pamelachester,Wisconsin,India,SME,True,2023-03-27
+CUST00280,Jennifer,Ho,Female,1984-09-27,wisealexandria@example.org,2332190368,Teresamouth,Rhode Island,India,Retail,True,2022-07-10
+CUST00281,Charles,Little,Female,1951-05-09,bakereric@example.net,001-530-610-2724x0559,New Brianashire,California,India,Premium,True,2020-10-11
+CUST00282,Hannah,Leon,Male,2003-12-20,pparker@example.net,(596)971-1148,Lake Benjaminton,New Mexico,India,Retail,False,2021-05-01
+CUST00283,Courtney,Hicks,Female,1959-03-05,scott22@example.net,001-353-274-5843x845,Timothyshire,South Dakota,India,Retail,True,2020-09-05
+CUST00284,Curtis,Martinez,Male,1985-01-20,anthonyalvarado@example.com,(569)374-1328x348,New Rebeccamouth,Arizona,India,Corporate,True,2022-01-09
+CUST00285,Kendra,Harris,Male,1957-07-26,imcdonald@example.com,(820)637-7107x044,North Janet,Vermont,India,SME,True,2025-02-20
+CUST00286,Melissa,Taylor,Female,1965-10-29,staylor@example.net,904-296-7066,Alvaradoport,Oklahoma,India,Retail,False,2017-07-24
+CUST00287,Caroline,Tyler,Male,2001-12-31,brittanybryant@example.net,736.226.8040,Georgeport,Wyoming,India,Retail,False,2019-04-26
+CUST00288,David,Johnson,Female,1951-10-19,omills@example.net,+1-854-693-0596x601,Hillhaven,Minnesota,India,Premium,True,2021-02-27
+CUST00289,Tonya,Spencer,Female,1967-06-29,regina78@example.org,+1-976-599-8426,Christinemouth,Colorado,India,Premium,True,2020-05-14
+CUST00290,Kimberly,Wood,Female,1961-04-25,ramosmichael@example.com,(804)241-3845,Samuelside,New Mexico,India,SME,True,2018-12-11
+CUST00291,Michael,Lara,Female,1988-02-08,kevinsmith@example.org,+1-445-944-9014x954,Madisonfort,Vermont,India,SME,True,2024-09-20
+CUST00292,Ross,Arnold,Female,1956-06-18,justin80@example.net,307.607.0578x360,Cynthiashire,Kansas,India,Corporate,True,2021-03-30
+CUST00293,Mitchell,Salazar,Other,1985-02-11,earroyo@example.com,+1-485-417-2444x723,Karenberg,Texas,India,SME,True,2017-12-20
+CUST00294,William,Miller,Other,1988-05-23,cannonlauren@example.net,+1-503-210-2879x508,Port Brittanyburgh,Hawaii,India,Premium,True,2016-07-28
+CUST00295,Matthew,Parker,Other,1940-08-12,laurakelley@example.org,001-944-305-8093x511,North Scott,Ohio,India,SME,True,2021-03-27
+CUST00296,Melissa,Key,Other,1972-12-18,bkhan@example.com,713.735.9561x64205,Simonland,Pennsylvania,India,Retail,True,2023-01-20
+CUST00297,Lynn,Higgins,Other,1949-07-25,frankmclaughlin@example.com,(557)749-0250x42901,West Allison,Minnesota,India,SME,True,2024-02-03
+CUST00298,Daniel,Fox,Female,1955-12-03,fwalker@example.com,889.353.6902x61139,Lake Charlene,Colorado,India,SME,True,2019-06-02
+CUST00299,Susan,Hammond,Male,1986-10-12,zacharymarsh@example.net,509.778.8754x39435,Roachmouth,Louisiana,India,Corporate,True,2022-04-24
+CUST00300,Cynthia,Morrow,Male,1941-03-04,justin84@example.com,775.313.7651,West Karenhaven,Minnesota,India,Retail,False,2024-05-27
+CUST00301,Maria,Jones,Female,1987-11-04,melissawhite@example.com,(479)637-6392x836,Ruthview,Missouri,India,Corporate,True,2022-10-21
+CUST00302,Jasmine,Compton,Male,1996-02-08,walshchristine@example.com,955-211-6682x9732,Lisaview,Illinois,India,Premium,True,2023-10-17
+CUST00303,Ryan,Day,Male,2007-09-26,blopez@example.org,(816)248-7120,South Tyler,Kentucky,India,SME,True,2019-01-10
+CUST00304,Jessica,Cole,Other,1969-04-05,bookerandrew@example.org,001-521-628-8665x268,New Wanda,Arizona,India,SME,True,2021-09-03
+CUST00305,Tammy,Frazier,Other,1949-07-12,joseph70@example.org,755-999-9101,North Ianborough,Rhode Island,India,Premium,False,2017-12-21
+CUST00306,Joseph,Cooper,Other,1945-05-11,hernandeztristan@example.com,(776)947-2298x12099,East Allisonmouth,California,India,Corporate,False,2022-05-11
+CUST00307,Lindsey,Humphrey,Male,1966-08-04,zcollins@example.com,(857)628-9413x4750,Sweeneyville,Oklahoma,India,Retail,True,2018-07-08
+CUST00308,Amanda,Deleon,Other,1990-03-26,steven05@example.org,765-622-0368x49951,New Johnfort,Minnesota,India,Corporate,True,2025-04-11
+CUST00309,Timothy,Bowman,Female,1947-07-04,brianrowe@example.org,(614)347-7324,West Sierramouth,North Carolina,India,Corporate,False,2020-05-27
+CUST00310,Ryan,White,Male,1961-11-06,qwhite@example.com,242.513.8820,Port Andrewshire,Alabama,India,Retail,True,2023-03-03
+CUST00311,Jessica,Burch,Male,2000-06-13,martinezkayla@example.org,4709534967,Port Daniel,Minnesota,India,SME,False,2019-10-14
+CUST00312,Joseph,Reynolds,Other,1949-11-12,cwise@example.org,511-376-7412x4151,Raystad,Minnesota,India,Corporate,False,2021-06-23
+CUST00313,Melissa,Bartlett,Female,1993-02-19,gonzalezjill@example.org,528-254-7815x06185,Dylanchester,Ohio,India,Premium,True,2022-12-26
+CUST00314,Mariah,Brown,Other,1991-10-04,thomasmaldonado@example.com,+1-903-629-6334x7272,Richardsbury,West Virginia,India,Retail,True,2023-05-08
+CUST00315,Christopher,Martinez,Other,1949-08-05,eric08@example.net,(531)483-0617,Christophermouth,Colorado,India,SME,False,2018-01-11
+CUST00316,Nicole,Hernandez,Male,2008-01-23,kingdanielle@example.org,4646969357,Port Jennifertown,Washington,India,Retail,True,2020-04-26
+CUST00317,John,Martin,Male,1950-04-04,paige31@example.org,647.376.9587,Jamesfurt,West Virginia,India,Premium,False,2020-11-11
+CUST00318,Steven,Morris,Other,1976-08-13,knguyen@example.com,414.967.5361,Lake Julieville,Connecticut,India,Retail,True,2024-11-21
+CUST00319,Cheryl,Fletcher,Male,1941-02-12,fosterjohn@example.org,515-862-7796x30448,Port Breanna,Massachusetts,India,Retail,True,2018-06-05
+CUST00320,Nicholas,Reed,Male,1984-09-28,jbarker@example.com,8856456676,East Susanside,New Hampshire,India,Corporate,True,2024-03-07
+CUST00321,Anthony,Everett,Male,1970-06-20,wrightvincent@example.net,5474350476,Port Ashley,Kentucky,India,Premium,True,2020-07-12
+CUST00322,Melissa,Jacobson,Other,1989-09-01,sarah00@example.com,+1-231-299-5298,Parkermouth,Louisiana,India,Premium,False,2022-11-02
+CUST00323,Hunter,Singleton,Male,1983-04-02,jacquelinemoody@example.org,(815)558-1083x5832,Davidchester,Virginia,India,Premium,True,2019-12-30
+CUST00324,Jason,King,Other,1950-11-01,jhall@example.net,825-956-3830x0081,New Brianhaven,South Carolina,India,Retail,False,2018-03-05
+CUST00325,Lauren,Reid,Male,1968-07-15,linda73@example.org,3248403304,Margaretville,Montana,India,Premium,False,2021-11-07
+CUST00326,Matthew,Pierce,Female,1987-03-25,ihoward@example.com,+1-462-341-1186x0089,North Justinton,Texas,India,Premium,True,2022-06-15
+CUST00327,Nicole,Martinez,Male,1999-01-07,washingtonsamuel@example.com,001-596-339-4568x0447,West Jason,Mississippi,India,Premium,False,2022-04-27
+CUST00328,Jacqueline,Turner,Other,1946-06-09,llopez@example.net,697-564-6136x847,Clarkland,Kansas,India,Corporate,True,2022-09-02
+CUST00329,Joshua,Ferguson,Male,1947-05-17,mario74@example.net,(907)765-8173x9063,Sarahhaven,Rhode Island,India,Premium,True,2019-11-19
+CUST00330,Alejandro,Shaw,Other,1991-09-16,caseymoore@example.com,591.345.2118x2379,Harrisfurt,Texas,India,Retail,True,2025-05-16
+CUST00331,Stacy,Jackson,Other,1980-08-19,amber70@example.net,(669)878-9307,South Christian,Delaware,India,Corporate,True,2021-04-21
+CUST00332,Christopher,David,Male,1966-08-28,bgross@example.net,952-705-9960x4387,Williamfurt,Montana,India,Premium,True,2024-07-31
+CUST00333,Jennifer,Moore,Other,2006-01-16,kimberly35@example.net,+1-235-477-8811x6162,East Michael,Arkansas,India,Premium,False,2023-06-02
+CUST00334,Tracy,Hopkins,Male,1961-12-05,barrettamber@example.com,812.837.1067x28728,Lake Adrianmouth,Tennessee,India,Corporate,True,2020-10-03
+CUST00335,Katherine,Le,Female,1950-01-18,alexandriajimenez@example.net,7414644859,Theresachester,New York,India,Premium,True,2021-01-16
+CUST00336,Hannah,Jacobs,Other,1959-05-18,chloemorris@example.net,(948)939-5894,West Cynthiaport,New Mexico,India,Retail,True,2019-03-12
+CUST00337,Debbie,Kirby,Other,1946-04-09,daniel81@example.org,452.428.7056,Wadeland,Alabama,India,Retail,True,2017-11-10
+CUST00338,Travis,Elliott,Other,1978-03-04,gregoryjohnson@example.org,910.443.3187x5109,Michellefurt,Arkansas,India,Premium,True,2019-12-21
+CUST00339,Laura,Bryan,Other,1981-05-05,clee@example.net,858-635-0344,New Tony,Maine,India,Retail,False,2019-10-18
+CUST00340,Christopher,Johnson,Female,1981-11-09,hbarrett@example.net,(696)448-8319x213,West Michael,Alabama,India,Corporate,True,2019-08-07
+CUST00341,Jeffrey,Williams,Female,1993-07-06,brandon39@example.net,991-528-9659x994,North Noahbury,Pennsylvania,India,Premium,True,2019-05-08
+CUST00342,Heather,May,Male,1987-06-30,smithsamantha@example.net,(903)231-9222,Huberton,Kansas,India,Corporate,True,2022-02-22
+CUST00343,Kevin,Ray,Other,1998-03-14,fhebert@example.com,810-828-7675x48138,Port William,Alabama,India,Retail,True,2021-11-18
+CUST00344,Bonnie,Curtis,Other,1985-04-24,wardjulia@example.com,001-867-954-8581x93242,South Todd,Virginia,India,Premium,False,2016-09-30
+CUST00345,Thomas,Wang,Female,1961-01-20,laura09@example.com,541.886.5205x7563,Johnsonburgh,Maryland,India,Corporate,True,2020-04-27
+CUST00346,Alyssa,Butler,Male,1975-10-01,navarromary@example.org,(320)737-5830x945,Barajasfurt,Massachusetts,India,Retail,True,2017-11-30
+CUST00347,Ronald,Fowler,Female,1975-03-11,susandavis@example.net,280-294-0476x044,Smithbury,Maryland,India,Premium,True,2017-09-27
+CUST00348,Julie,Jimenez,Female,1991-05-25,amandalopez@example.net,001-479-477-2781x050,Gregoryland,Delaware,India,SME,True,2023-01-23
+CUST00349,Mark,Burton,Male,1960-08-21,ashleymeza@example.net,(616)510-7051,Aguirreview,Ohio,India,Retail,True,2018-07-09
+CUST00350,Jacqueline,Roberts,Other,1944-04-02,xreese@example.net,+1-390-555-2958x0660,Port Janetchester,Louisiana,India,Retail,True,2020-10-20
+CUST00351,Joseph,Frye,Other,2001-08-07,emily61@example.org,001-282-641-2704x93862,North Patriciamouth,Alaska,India,SME,True,2020-08-04
+CUST00352,John,Webb,Female,2005-06-17,andreawagner@example.net,385-415-7919x711,Cynthiaborough,Wisconsin,India,SME,False,2021-01-23
+CUST00353,David,Ballard,Female,1974-03-12,amandagreene@example.com,001-612-559-0203x5713,Amandaport,Kansas,India,Corporate,True,2021-10-02
+CUST00354,James,Cohen,Female,1948-03-17,andrea55@example.com,001-524-606-4242x9563,Claytonton,Rhode Island,India,Retail,True,2025-05-13
+CUST00355,David,Evans,Male,1974-07-07,umckenzie@example.net,724.747.4175,Tabithaton,Virginia,India,SME,False,2024-06-29
+CUST00356,Amanda,Jones,Male,1980-12-05,annalewis@example.net,001-587-720-9628x93654,Lake Ann,Ohio,India,Premium,True,2018-08-04
+CUST00357,Kathleen,Brown,Female,1976-06-19,michael77@example.com,001-388-441-8343x740,East Tracyborough,Georgia,India,Retail,True,2022-08-26
+CUST00358,Jacob,Gonzales,Other,2007-01-10,barbertonya@example.net,227.495.5969x0515,West Douglaschester,Idaho,India,Corporate,True,2021-09-12
+CUST00359,Javier,Washington,Other,2007-08-26,holmesvictoria@example.com,(975)851-2542x78207,South Dennis,Colorado,India,SME,False,2016-11-11
+CUST00360,Todd,Harris,Male,2004-01-18,evansjeffrey@example.com,001-367-834-5957x6403,West Cynthiaview,Ohio,India,Retail,False,2023-11-07
+CUST00361,Jenny,Lawson,Male,1949-07-08,ingramsherry@example.com,(449)469-0282x49839,Wilsonshire,Alaska,India,Retail,True,2023-05-28
+CUST00362,Tiffany,Edwards,Other,1999-01-29,clintonstevens@example.org,+1-450-614-2576x27023,New Logan,Utah,India,SME,True,2020-05-24
+CUST00363,Alicia,Higgins,Male,1979-03-11,josephpreston@example.org,412-733-6132x8507,North Barbara,Indiana,India,SME,True,2023-12-15
+CUST00364,Justin,Gross,Other,1965-05-22,jonathanevans@example.net,378-863-7673,South Tylerview,Pennsylvania,India,SME,True,2024-05-24
+CUST00365,Craig,Valencia,Female,1986-12-25,ncarroll@example.net,(352)765-4696,New Glennhaven,Missouri,India,Retail,False,2022-12-20
+CUST00366,James,Hester,Male,1992-05-28,cummingslaura@example.org,890.339.2355x5809,Sheenahaven,Montana,India,SME,False,2022-03-10
+CUST00367,Jeremy,Anderson,Female,2005-06-11,spetersen@example.net,+1-832-473-0346x1562,Hubbardmouth,Wyoming,India,SME,True,2020-07-27
+CUST00368,Harry,Wood,Male,1992-12-04,larsonkevin@example.net,346-770-4622x6817,Danielbury,Hawaii,India,Retail,False,2022-07-30
+CUST00369,Alexis,Hoffman,Male,1941-09-04,dmiller@example.com,+1-816-202-5298x67076,Amandamouth,Wyoming,India,Retail,True,2021-07-05
+CUST00370,Amanda,Flores,Female,1945-02-18,nichole66@example.org,464-819-7857x5851,Port Travis,West Virginia,India,Corporate,True,2023-10-30
+CUST00371,Joshua,Owens,Female,1958-05-15,julieatkinson@example.org,+1-961-820-5943,Adamsborough,Washington,India,Premium,True,2025-05-25
+CUST00372,Terri,Adams,Male,1943-04-02,hbrown@example.org,7746017750,Lake Tammyside,Arizona,India,Retail,True,2021-10-07
+CUST00373,Angela,Wright,Female,1944-08-26,amber25@example.net,(254)308-4245x60754,Port Danielfurt,Kansas,India,Premium,False,2022-11-13
+CUST00374,Heidi,Davis,Other,1994-03-19,ericnunez@example.com,(808)663-2181x227,Kimberlyton,North Carolina,India,Corporate,True,2017-03-05
+CUST00375,David,Roberts,Other,1974-12-28,kmullins@example.net,(479)338-9701x550,West Stacey,Mississippi,India,Corporate,True,2023-08-29
+CUST00376,Miranda,Cruz,Female,1983-04-14,walkerkeith@example.com,(581)654-6602x4161,New Trevorside,Ohio,India,SME,True,2020-04-28
+CUST00377,Travis,Gilbert,Other,1974-08-12,davidmiller@example.net,698-283-0597x3642,Ramosstad,Oklahoma,India,Corporate,True,2019-05-13
+CUST00378,Monique,Wright,Other,1968-10-16,kelleyjose@example.com,+1-662-944-0630x624,Lake Jim,Montana,India,SME,True,2018-05-12
+CUST00379,Audrey,Grimes,Other,1988-04-06,iayala@example.org,+1-951-833-0531x949,Campbellfort,Utah,India,SME,False,2021-04-06
+CUST00380,Taylor,Moore,Male,1946-02-23,fhansen@example.com,+1-495-986-7805x5557,Smithview,Louisiana,India,Retail,True,2025-06-09
+CUST00381,Scott,Murphy,Other,1977-01-10,annshea@example.net,001-773-382-6460x9178,East Jennifertown,South Dakota,India,Retail,True,2024-06-11
+CUST00382,Jack,Lane,Other,1982-06-07,johnadams@example.com,485.444.5770,West Jameschester,Vermont,India,Premium,True,2021-06-10
+CUST00383,Brett,Edwards,Female,1959-05-30,gail91@example.org,+1-459-866-0487x368,East Amyfurt,West Virginia,India,SME,True,2022-02-27
+CUST00384,Shelley,Hines,Other,1961-08-13,whenderson@example.org,+1-811-763-3194x226,West Joseph,Alaska,India,SME,True,2016-11-23
+CUST00385,Tim,Jimenez,Male,1975-04-24,melvin04@example.org,001-836-994-5515x88863,North Sandra,Texas,India,Premium,False,2020-08-11
+CUST00386,Lynn,Robertson,Male,1954-05-11,christina79@example.org,001-874-872-2640x85721,Lake Melaniebury,New Hampshire,India,SME,True,2018-06-06
+CUST00387,Richard,Jimenez,Female,1995-06-28,owilliams@example.org,(263)709-3299x81996,New Austinstad,Ohio,India,Corporate,False,2021-03-02
+CUST00388,Charles,Parker,Male,1977-01-06,eric11@example.net,+1-532-497-1509x688,Murraytown,Ohio,India,SME,True,2019-09-18
+CUST00389,Crystal,Johnson,Male,1967-02-10,sanchezchristine@example.org,953.927.3524x103,Katherineland,Alabama,India,SME,True,2017-02-14
+CUST00390,Brian,Landry,Other,1983-09-03,alexander14@example.com,797.432.7819,North Jasminefort,Georgia,India,SME,False,2020-12-26
+CUST00391,Edward,Wagner,Other,1997-04-16,njohnson@example.net,371.800.6876,Coryborough,Montana,India,Retail,False,2017-01-22
+CUST00392,Anna,Levy,Male,1986-11-08,jamesmills@example.com,781-898-0770x460,West Nathan,Massachusetts,India,Corporate,False,2021-10-07
+CUST00393,Kevin,Lewis,Female,1945-01-14,jdean@example.net,001-887-761-1249x125,Port Andrea,Hawaii,India,SME,True,2019-11-12
+CUST00394,Victoria,Gomez,Female,1988-01-20,bennettrebecca@example.net,(937)534-1517,North Christineport,Rhode Island,India,Corporate,True,2025-06-05
+CUST00395,David,Williams,Other,1990-03-06,scottbrian@example.org,001-645-247-5749x49022,Lake Sandraberg,Vermont,India,Corporate,True,2023-05-26
+CUST00396,Kathy,Simpson,Male,1998-02-06,brian01@example.com,959.954.4294,Amymouth,Michigan,India,Corporate,True,2022-03-08
+CUST00397,Catherine,Khan,Other,1944-06-24,elizabeth51@example.org,+1-442-222-9464x30394,New Jessicaside,Colorado,India,Premium,False,2018-01-18
+CUST00398,Krystal,Pena,Female,1946-05-28,michelle63@example.com,758-786-7925x298,Hernandezfurt,Missouri,India,SME,True,2023-12-24
+CUST00399,Jeremiah,Ruiz,Male,1970-02-01,mckeetodd@example.net,(572)587-2760x1534,Michelleshire,Maine,India,Retail,True,2018-06-06
+CUST00400,Alexandra,Herrera,Other,1971-05-16,lopezvincent@example.com,(249)513-5779,Harrisburgh,Vermont,India,Retail,True,2018-11-29
+CUST00401,Shannon,Boone,Other,1981-12-10,williamssandra@example.com,001-335-206-1581x4888,Christianfort,Nevada,India,Retail,True,2021-02-22
+CUST00402,Scott,Jordan,Female,1961-07-28,tracy20@example.com,698.633.4233x720,Lauraburgh,Virginia,India,Retail,True,2020-03-28
+CUST00403,Michelle,Khan,Other,1990-12-23,lisa46@example.org,531-928-4033,Alexisborough,Rhode Island,India,SME,True,2021-04-07
+CUST00404,Veronica,Luna,Female,1990-11-27,jeremiah56@example.net,518.305.1371x717,South Cory,Indiana,India,Retail,False,2024-04-15
+CUST00405,Kevin,Gallagher,Female,1948-08-30,christopherreyes@example.net,+1-893-397-4909,North Jamesfurt,Indiana,India,Corporate,True,2025-03-04
+CUST00406,Christine,Diaz,Male,1988-09-05,robertberry@example.com,001-773-999-7046x9472,Garciafurt,Washington,India,Premium,True,2022-09-15
+CUST00407,Chelsea,Morales,Male,1988-03-30,renee57@example.net,944.248.3548x84712,North Thomas,Kansas,India,Retail,True,2020-02-16
+CUST00408,Jody,Hudson,Other,1951-09-07,jamietaylor@example.net,587-372-2164x17582,New Reginald,Michigan,India,Corporate,True,2017-11-24
+CUST00409,Stacey,Lee,Female,2005-05-07,michelleparker@example.net,001-433-748-4587x14939,North Sarah,Washington,India,Retail,True,2021-11-18
+CUST00410,Jared,Tran,Female,1976-02-08,russellstout@example.org,(936)822-9258,Port Austin,Nebraska,India,SME,True,2022-09-02
+CUST00411,Jason,Jones,Male,1993-10-14,lonniegrant@example.net,001-843-847-4524x55574,Kimberlybury,Florida,India,Corporate,False,2018-02-28
+CUST00412,Donna,Gordon,Male,1989-07-21,whitemary@example.org,001-660-760-6527x40334,Barrychester,Illinois,India,SME,True,2024-12-16
+CUST00413,Eric,Duran,Female,1951-11-23,cannonnicole@example.com,9566658833,North Ashley,Arkansas,India,Retail,True,2023-08-13
+CUST00414,Glenn,Ramirez,Male,1949-03-04,vturner@example.net,813-925-7970,South Susan,Illinois,India,Corporate,False,2021-12-17
+CUST00415,Charles,Hays,Other,1993-08-28,edwin31@example.org,649.796.0105,North Matthewfort,Rhode Island,India,Corporate,False,2022-03-24
+CUST00416,Aaron,Becker,Female,1958-10-26,anthonyodom@example.net,541.372.1562x294,Anthonyville,New Jersey,India,Corporate,True,2019-07-18
+CUST00417,Shannon,Wilson,Male,2000-10-25,catherine93@example.net,735.798.4884x021,Sanchezmouth,Maryland,India,Retail,True,2017-05-01
+CUST00418,Brittney,Hester,Other,1992-12-31,jerryjohnson@example.org,001-273-425-7375x53449,North Laurenborough,Kentucky,India,Premium,False,2024-06-11
+CUST00419,Kelly,Long,Female,1942-07-16,manderson@example.com,766-267-0808,Daviston,Alaska,India,Premium,True,2021-06-17
+CUST00420,Jesse,Norton,Other,1995-06-05,jack67@example.com,001-760-385-8749,Jacksonland,North Carolina,India,SME,True,2017-12-06
+CUST00421,Jasmine,Morgan,Other,1959-01-14,frankperez@example.com,001-519-318-1828x1979,East Amberfurt,North Carolina,India,Premium,True,2021-08-22
+CUST00422,Jacqueline,Mcmillan,Female,1944-11-19,schaeferstephanie@example.org,001-264-877-2512x95786,Lake Williamland,Arkansas,India,Retail,True,2023-08-22
+CUST00423,Shawn,Fischer,Other,1988-12-23,katherinejones@example.com,001-840-496-0035,Simpsonburgh,Wisconsin,India,Corporate,True,2021-03-31
+CUST00424,Grace,Gonzalez,Male,1979-10-03,dwatts@example.org,439-558-7395x923,North Lindaview,Wyoming,India,Corporate,False,2020-01-08
+CUST00425,Sandra,Hicks,Male,1945-10-13,csullivan@example.net,521-508-9028x5155,Mollyview,Nevada,India,Retail,True,2022-06-10
+CUST00426,Kristin,Porter,Male,1971-06-30,zcortez@example.net,442.964.3350,Sparksfort,New York,India,Corporate,True,2023-05-27
+CUST00427,Colleen,Williams,Other,1965-01-11,meyershannon@example.org,860-573-6077,New Garyland,Arizona,India,Premium,True,2021-02-18
+CUST00428,Donna,Taylor,Male,1974-07-07,aprilfoster@example.net,369.411.2898,Flowersmouth,North Carolina,India,SME,True,2017-09-28
+CUST00429,Sarah,Cook,Other,1979-02-02,grantzachary@example.net,001-631-379-5563x31857,Kirkchester,Washington,India,Retail,True,2023-10-25
+CUST00430,Ronald,Wells,Male,1965-07-18,leescott@example.com,600.566.6155x416,East Mandyport,Rhode Island,India,Corporate,True,2022-05-18
+CUST00431,Amy,Bryant,Female,1957-11-21,steven64@example.net,001-216-470-4502x329,Melissaberg,Oklahoma,India,Retail,True,2020-12-07
+CUST00432,Deborah,Obrien,Other,1947-07-16,vaughnrebecca@example.com,422.470.0934x59626,West Douglas,New Mexico,India,Premium,True,2024-10-10
+CUST00433,Rebekah,Robertson,Other,1979-07-27,gdavis@example.org,722.251.2073x46549,Smithmouth,Arizona,India,Corporate,True,2020-01-12
+CUST00434,Margaret,Murphy,Male,1989-09-09,kimberlypace@example.net,8504702608,East Rhonda,Rhode Island,India,Corporate,False,2023-05-20
+CUST00435,Charles,Austin,Female,1956-01-27,phillipmorris@example.org,(910)953-1611,Karinaberg,Hawaii,India,Corporate,True,2025-03-25
+CUST00436,Gabriel,Martin,Male,1975-02-21,shawnmosley@example.org,(387)929-0477x42585,New Josephmouth,Arizona,India,Corporate,True,2016-11-13
+CUST00437,Kyle,Ewing,Male,1943-07-15,udavis@example.net,393.523.8223x1164,Warefurt,Utah,India,Retail,False,2017-08-09
+CUST00438,Kaitlyn,Stevenson,Female,1999-03-22,jennifermartinez@example.org,642.445.7988,East Emilychester,Virginia,India,Premium,False,2020-08-18
+CUST00439,Ashley,Evans,Female,1957-03-03,fwalters@example.net,465-829-0603x20203,Lesliebury,Delaware,India,Premium,True,2017-09-22
+CUST00440,Keith,Rogers,Male,1972-08-15,gacosta@example.net,909-377-5396x73794,South Robert,Rhode Island,India,SME,True,2020-11-13
+CUST00441,David,Clayton,Female,1966-08-02,nicholasjames@example.org,001-648-355-2457x8715,Morrisonport,Vermont,India,Retail,True,2017-11-10
+CUST00442,Haley,Patel,Male,1950-09-30,ariana22@example.org,(460)782-1371x184,Lake Dennisstad,South Carolina,India,Premium,True,2021-07-13
+CUST00443,Holly,Erickson,Other,2003-11-11,kaylawilliams@example.com,576-781-8268x3230,Breannastad,Colorado,India,Retail,True,2020-01-11
+CUST00444,Sherri,Evans,Male,1998-11-07,jessica74@example.net,492.398.8085x83825,South Benjaminville,Ohio,India,Retail,True,2021-12-31
+CUST00445,Vincent,Cabrera,Other,1978-02-19,davidanderson@example.org,+1-829-932-8963x40646,New Elizabethmouth,Washington,India,Premium,False,2018-08-14
+CUST00446,Troy,Richardson,Male,2002-09-09,deanjohnny@example.com,352.240.1484x399,East Lindaside,Vermont,India,SME,False,2019-01-05
+CUST00447,Christopher,Nunez,Female,1990-11-27,ifoley@example.org,001-762-327-2362x66933,Holderport,South Dakota,India,SME,False,2022-11-24
+CUST00448,Bill,Whitney,Other,1969-01-21,lyoung@example.net,442.661.9237,Scottside,Maine,India,SME,False,2022-07-03
+CUST00449,Ryan,Silva,Female,1962-06-04,cchavez@example.org,001-950-418-4819x73741,Moodyhaven,Iowa,India,Corporate,True,2024-03-08
+CUST00450,Marcus,Robles,Other,1968-11-05,sanchezamy@example.net,454-906-4176,Martinezmouth,Colorado,India,Premium,True,2022-06-28
+CUST00451,John,Swanson,Other,1989-07-09,brandonhernandez@example.net,001-343-681-1995x37660,Kiddtown,Colorado,India,Corporate,True,2022-01-02
+CUST00452,Christopher,Watts,Male,1958-12-27,benjamin09@example.net,001-944-585-6451x0173,Larryview,Illinois,India,Corporate,True,2020-08-16
+CUST00453,Suzanne,Johnson,Male,1945-11-02,mark10@example.org,001-864-217-8996,New Karamouth,Utah,India,Corporate,False,2016-12-14
+CUST00454,Mary,Wells,Male,1965-11-22,kchaney@example.net,+1-819-219-1135x996,New Danielton,Georgia,India,Retail,False,2022-12-18
+CUST00455,Barbara,Coffey,Male,1974-09-06,cheryl99@example.net,(277)798-0660x392,Cartershire,Missouri,India,Retail,True,2016-12-08
+CUST00456,Stephanie,Patton,Female,2001-11-15,tammycurry@example.com,546-607-4555,North Samuel,Missouri,India,Premium,True,2020-12-15
+CUST00457,Yvonne,Parsons,Male,1952-09-26,daviskevin@example.com,405.974.2388x565,North Richardhaven,Connecticut,India,Premium,True,2020-09-05
+CUST00458,Emily,Lane,Male,1995-03-28,wwilkins@example.com,355-898-3541,South Cathy,Connecticut,India,Retail,True,2022-01-24
+CUST00459,Joseph,Griffith,Other,2007-04-12,carterdennis@example.net,797-226-3475x57522,Port James,Michigan,India,Retail,True,2024-04-19
+CUST00460,Billy,Silva,Female,2005-06-02,mark68@example.org,439-848-8488,Tinaview,Ohio,India,Corporate,False,2023-08-02
+CUST00461,Katelyn,Jackson,Female,1945-03-24,cherylrodriguez@example.net,+1-813-411-9642x585,Williamview,Louisiana,India,SME,True,2024-04-28
+CUST00462,Thomas,Fuller,Other,1972-03-02,webbhaley@example.net,(614)299-1537x0382,Blackburnton,Oklahoma,India,SME,True,2025-07-04
+CUST00463,Denise,Harvey,Other,1959-09-27,ronald54@example.net,933.933.7320x4309,North Jeffrey,Michigan,India,SME,True,2018-04-04
+CUST00464,Sabrina,Randall,Male,1997-12-28,sara99@example.com,(688)893-6289x69645,Floreschester,Oklahoma,India,SME,True,2019-09-23
+CUST00465,Howard,Hernandez,Female,1962-10-19,lvasquez@example.net,(453)358-5125x389,East Jennifer,Arkansas,India,SME,True,2020-07-21
+CUST00466,Brenda,Becker,Male,1978-02-25,jeanettekrause@example.org,978.951.9358x37490,East Cameronburgh,Michigan,India,Corporate,True,2023-09-28
+CUST00467,Cynthia,Johnson,Other,1941-01-30,johnsoncolleen@example.org,396.712.0878x0572,Lake Jessica,Hawaii,India,Premium,True,2020-07-08
+CUST00468,Travis,Vaughan,Male,1954-03-10,laurenduarte@example.com,849-540-9762,Port Alexis,Montana,India,Retail,True,2023-03-13
+CUST00469,Christopher,Rodriguez,Female,1978-11-18,cookann@example.net,+1-274-284-5398x62895,Aaronborough,Kansas,India,Corporate,True,2023-06-07
+CUST00470,Michael,Smith,Male,1961-03-17,alexharris@example.com,001-459-411-9186x233,North Bruce,Idaho,India,SME,True,2024-02-05
+CUST00471,Mathew,Edwards,Female,1982-11-20,kristy44@example.net,8718511696,New Aprilbury,Texas,India,Retail,False,2022-06-18
+CUST00472,Elizabeth,Hernandez,Male,1972-02-02,katie15@example.com,001-372-452-1452x647,Juliafurt,Delaware,India,Corporate,True,2024-06-16
+CUST00473,Mia,Vaughn,Male,1980-10-10,nramsey@example.org,263-235-1571x840,Allenville,Delaware,India,SME,True,2017-06-10
+CUST00474,Mark,Jenkins,Female,1974-02-02,jamesbass@example.net,+1-751-320-8005x64099,North Zacharyshire,Rhode Island,India,Corporate,True,2019-07-03
+CUST00475,Heather,Hampton,Female,1993-01-29,zhendricks@example.org,(439)772-8351,North Johnnyfurt,Tennessee,India,Retail,True,2022-03-24
+CUST00476,Keith,Knapp,Female,1953-10-30,timothyburton@example.net,001-227-328-2709,North Bethanyland,Montana,India,Premium,False,2022-09-02
+CUST00477,Sierra,Salas,Male,2001-10-09,steven60@example.net,741-952-9821x7392,Bradleyberg,Arizona,India,SME,True,2023-06-13
+CUST00478,Lisa,Fitzgerald,Male,1992-04-03,annette58@example.net,+1-886-271-8153x52373,East Gina,Maine,India,Retail,False,2020-07-01
+CUST00479,Andrea,Brown,Male,1957-03-18,clarkgina@example.com,(807)591-8158x998,South Judy,New Jersey,India,Retail,True,2024-09-06
+CUST00480,Shawn,Taylor,Other,1940-12-22,montesjuan@example.org,952-373-4666x6170,Singhton,Utah,India,Premium,True,2019-10-04
+CUST00481,Leonard,Clark,Male,1968-06-04,tonya82@example.net,487-796-4740x80314,Smithmouth,Utah,India,Corporate,True,2022-05-01
+CUST00482,Marcus,Nguyen,Female,1956-05-20,hlopez@example.com,001-408-700-4635x8068,Amyland,Hawaii,India,Premium,True,2021-04-06
+CUST00483,Tara,Bates,Female,1964-02-06,jennifer46@example.org,+1-203-217-2351x37399,Castilloview,Georgia,India,Premium,True,2022-02-05
+CUST00484,Richard,Fox,Female,1997-08-19,xwiley@example.com,(431)440-3526x3560,Sanchezton,Alaska,India,Corporate,False,2022-08-14
+CUST00485,Xavier,Edwards,Male,2000-03-10,javier42@example.org,+1-839-846-9434x606,New Lisashire,Massachusetts,India,Corporate,True,2023-03-11
+CUST00486,Vanessa,Thompson,Female,2005-03-17,kristen31@example.com,337-349-0607x231,Gabriellebury,Iowa,India,Corporate,True,2021-03-09
+CUST00487,Diane,Barr,Female,1940-08-22,lloydrebecca@example.org,(671)628-5246,Wilsonville,Rhode Island,India,Retail,True,2022-12-08
+CUST00488,Amy,Peterson,Other,1985-03-28,matthewwebb@example.net,294-911-6318x7328,South Christopher,New Mexico,India,Retail,False,2019-01-22
+CUST00489,Robert,Gomez,Other,1998-04-10,kimberly21@example.net,911.430.6211x3695,New Nicolemouth,Utah,India,SME,True,2016-12-09
+CUST00490,Jacob,Ingram,Female,1989-12-28,jamiejohnson@example.com,690.483.3509x025,Lake Cassandrastad,Alabama,India,SME,True,2019-11-06
+CUST00491,Michael,Le,Other,1947-08-11,cookpamela@example.org,(573)706-6248x132,Markberg,New Mexico,India,Premium,True,2021-02-13
+CUST00492,Katherine,Schneider,Other,1976-07-27,andrew43@example.com,+1-270-371-3984x82285,Edwardtown,New Mexico,India,Premium,False,2018-06-03
+CUST00493,Colleen,Steele,Female,1956-09-26,jameshill@example.com,+1-216-888-0925x50213,Lake Jordan,Louisiana,India,SME,False,2025-04-14
+CUST00494,Kathleen,Bishop,Male,1973-12-31,rlambert@example.org,3902691309,North Michaelmouth,Mississippi,India,Premium,True,2019-05-05
+CUST00495,James,Lee,Male,1944-08-12,joshuasmith@example.net,+1-979-964-9673x7945,West Robert,Virginia,India,Corporate,True,2019-04-26
+CUST00496,Andrea,Wright,Female,2008-05-02,clarkmichael@example.com,(678)453-2426,South Marcshire,Louisiana,India,Retail,False,2020-11-20
+CUST00497,Sara,Grant,Male,1988-12-07,donald49@example.org,(706)542-0768x362,Justinview,Maine,India,SME,False,2016-12-31
+CUST00498,Samuel,Walker,Other,1946-11-13,charlesaustin@example.com,(566)577-7675x5562,Reynoldsberg,New Mexico,India,Retail,True,2024-10-25
+CUST00499,Helen,Dudley,Female,2003-03-10,bwilliams@example.com,739.639.5786,North Brianberg,Washington,India,SME,False,2017-06-17
+CUST00500,David,Evans,Male,2001-07-22,rodriguezbrian@example.com,862.271.8749,Nicoletown,Vermont,India,Retail,True,2017-11-28
+CUST00501,Teresa,Roberts,Male,1975-11-20,mwhite@example.net,935.282.6862,Lake Kayla,Arkansas,India,SME,True,2018-07-31
+CUST00502,Chelsea,Clark,Other,1988-03-13,tjensen@example.com,001-836-792-4926x932,Lake Williamberg,Ohio,India,Retail,True,2022-05-16
+CUST00503,John,Bush,Female,1965-11-14,jenniferlambert@example.net,232.275.9980x111,New Sean,Utah,India,Corporate,True,2019-06-11
+CUST00504,Eric,Stewart,Female,2006-10-24,beltrankatelyn@example.com,3517553234,Tammyberg,Utah,India,SME,True,2016-12-24
+CUST00505,Andrea,Bailey,Other,1946-04-25,christopherlang@example.net,+1-459-477-5244x182,Taylorhaven,Wyoming,India,SME,True,2020-02-22
+CUST00506,Andrea,Peck,Female,1947-01-15,tdavis@example.net,(318)296-2887x43127,Vincentland,Florida,India,SME,True,2025-06-14
+CUST00507,Christopher,Pope,Female,1949-08-15,oruiz@example.org,(967)467-2095,Bakermouth,South Dakota,India,Corporate,False,2017-07-25
+CUST00508,Victoria,Hill,Other,1996-04-19,roberta62@example.net,607.895.5151x229,South Jeremy,Illinois,India,Retail,True,2022-03-10
+CUST00509,Robin,Martinez,Other,1945-08-18,kristina57@example.com,(213)854-1597,Danaborough,Colorado,India,SME,False,2020-01-30
+CUST00510,Steven,Rhodes,Male,1979-02-25,jonesdaniel@example.com,(754)438-4807,Collinsbury,New Hampshire,India,Retail,True,2024-12-12
+CUST00511,David,James,Female,1970-02-13,ssingleton@example.com,9343476504,Wendytown,Wisconsin,India,Corporate,True,2021-05-05
+CUST00512,Marilyn,Baird,Other,2006-02-09,williamsullivan@example.net,280-629-0904x63766,West Christopherville,California,India,Premium,True,2017-03-18
+CUST00513,Tyrone,Cardenas,Male,1956-08-22,nguyendebra@example.com,001-565-958-6652x548,New Jacqueline,Maine,India,SME,True,2016-11-16
+CUST00514,Jennifer,Blevins,Female,1958-04-16,amorales@example.org,441-771-5810x2131,New Darrenchester,Missouri,India,Corporate,True,2022-04-15
+CUST00515,William,Ballard,Male,1961-12-17,amydickson@example.com,329-431-1005,Lake Gregorymouth,West Virginia,India,Retail,True,2024-06-11
+CUST00516,Joshua,Roberts,Other,1994-12-30,petersonlisa@example.net,001-375-419-1023,Anneport,California,India,SME,False,2020-08-04
+CUST00517,Mary,Roberts,Female,1988-03-10,bmueller@example.net,710-563-3016,Wilsonton,South Carolina,India,Retail,True,2020-07-22
+CUST00518,Tina,Klein,Male,1990-07-18,amy32@example.net,337.492.7490x7280,South Carolynbury,Oregon,India,Premium,True,2017-01-07
+CUST00519,John,Reed,Other,1962-03-03,stevensonjennifer@example.com,442.789.3113,West Ronaldtown,Michigan,India,SME,True,2024-06-24
+CUST00520,Andrea,Ramos,Other,1959-01-13,vargassteven@example.net,001-532-269-4968x43645,North Davidbury,Washington,India,SME,True,2018-08-17
+CUST00521,Patrick,Scott,Other,1945-08-15,shortgregory@example.com,+1-944-221-0175x0961,South Christopher,Kansas,India,Retail,True,2025-04-19
+CUST00522,Sandra,Mendoza,Other,1954-04-29,georgegina@example.net,001-715-995-9194x5757,Lake Natashaburgh,Oregon,India,SME,True,2023-10-11
+CUST00523,William,Harris,Other,1993-07-30,pmurphy@example.net,775-883-3920x5677,East Ashley,Louisiana,India,Corporate,False,2022-03-09
+CUST00524,Natasha,Ryan,Other,1980-04-20,davislisa@example.net,877.722.6602x562,Jonesland,Nebraska,India,Corporate,False,2019-10-02
+CUST00525,Michelle,Fitzpatrick,Other,1951-02-09,shermandonna@example.com,8629292310,North Diana,New York,India,Premium,False,2021-02-24
+CUST00526,Joshua,Horton,Male,1951-09-20,peter97@example.org,(645)530-7624,Staceystad,Missouri,India,Corporate,True,2018-11-28
+CUST00527,Kristy,Taylor,Female,1972-03-26,erinstewart@example.net,779.376.6270,South Jillchester,Nebraska,India,Premium,True,2025-04-29
+CUST00528,Robert,Gilbert,Female,1968-03-08,samantha65@example.org,557-894-2387,Jeffreyview,Florida,India,Retail,True,2021-09-16
+CUST00529,Sarah,Matthews,Male,1976-12-25,carrwilliam@example.org,604.725.4969x1928,Patrickton,Nebraska,India,Retail,True,2019-03-07
+CUST00530,William,Sanchez,Other,2006-02-19,bryan80@example.org,001-752-559-7107x5633,Dianaberg,Idaho,India,Premium,True,2024-10-09
+CUST00531,Lori,Santiago,Female,1954-08-30,daniel40@example.org,574-585-9532x59399,Barnesbury,Kansas,India,Corporate,True,2025-06-12
+CUST00532,Justin,Schmidt,Other,1961-07-04,zpark@example.net,997.905.8162x9518,Patricktown,Massachusetts,India,Corporate,False,2023-11-30
+CUST00533,Kenneth,Little,Female,1958-07-25,jennifer66@example.com,+1-541-276-3425x073,New Christopherbury,Vermont,India,Premium,True,2020-05-07
+CUST00534,Brenda,Williams,Other,1948-09-11,elainewells@example.org,359-678-2457x59833,West Victorborough,Wisconsin,India,Premium,True,2024-03-30
+CUST00535,Yolanda,Gutierrez,Male,1951-04-05,xbridges@example.com,001-403-688-4366x0443,Travisberg,Oregon,India,Retail,False,2025-02-14
+CUST00536,Tracy,Love,Other,1987-03-12,keithsalas@example.org,4069157276,Jimmyside,Missouri,India,Premium,False,2023-11-13
+CUST00537,Edgar,Garcia,Female,1996-09-25,alexanderwong@example.org,001-251-347-4397x42925,Millerchester,Alabama,India,Corporate,True,2017-02-19
+CUST00538,Amanda,Townsend,Other,1987-12-06,ibarrett@example.org,2588752568,East Shelby,Mississippi,India,Premium,True,2018-07-02
+CUST00539,Michael,Smith,Female,1943-04-14,dawnperry@example.com,+1-256-425-9045x9908,Lake Erinmouth,Iowa,India,Premium,True,2017-10-01
+CUST00540,Andrea,Pierce,Other,1997-05-20,dhanson@example.net,311.822.1823x1555,South Shawn,Alabama,India,Premium,False,2019-05-31
+CUST00541,Amy,Hickman,Female,1962-10-31,carnold@example.com,417-368-0866x28137,New Philipchester,Florida,India,Retail,True,2018-07-04
+CUST00542,Stanley,Russell,Female,1946-09-29,jeremiah69@example.org,001-443-430-8003x70033,Donovanfurt,West Virginia,India,Premium,True,2021-01-09
+CUST00543,Marc,Donovan,Female,1957-06-03,pbradford@example.net,555.266.0847x06810,Port David,Missouri,India,SME,True,2022-06-30
+CUST00544,Jacob,Johns,Other,1964-09-24,robert89@example.com,439.870.5195,New Natashachester,California,India,SME,True,2024-05-10
+CUST00545,Heidi,Woods,Female,1975-06-16,goodashley@example.net,828.409.4485,Dixonview,West Virginia,India,SME,True,2019-09-26
+CUST00546,Ashley,Gonzalez,Other,1986-08-04,daniel71@example.org,694.953.5461,Thomasland,Ohio,India,Corporate,False,2025-01-15
+CUST00547,Jesus,Maynard,Male,1958-03-26,steven18@example.net,8793863210,New Brian,Maryland,India,Corporate,True,2019-11-01
+CUST00548,Kimberly,Morris,Male,2007-11-28,sanchezcrystal@example.net,001-633-594-3945x7039,West Alexis,Alaska,India,Premium,True,2022-11-23
+CUST00549,Bradley,Brewer,Female,1942-08-27,suttonamber@example.net,404.903.2537x65769,Proctorville,Florida,India,SME,True,2017-12-24
+CUST00550,Julie,Velez,Other,1968-01-15,chloe58@example.org,689.243.1910x0900,Vincentfort,Mississippi,India,Retail,False,2024-09-23
+CUST00551,Janet,Davis,Female,1971-04-17,egibson@example.net,676-892-1053x3651,Teresaberg,New York,India,SME,True,2022-07-25
+CUST00552,Lisa,Andrews,Other,1991-05-31,robert44@example.org,+1-404-201-4247x3107,West Michelle,Oklahoma,India,SME,False,2022-07-02
+CUST00553,Paul,Nichols,Other,1957-07-13,nealcarla@example.com,913-379-8440,West Brian,New Hampshire,India,Corporate,True,2018-08-22
+CUST00554,Elizabeth,Sharp,Male,1971-12-17,bryan79@example.org,001-223-216-6007x6762,Kochfurt,Alabama,India,Corporate,False,2021-02-13
+CUST00555,Lori,Zuniga,Other,1995-03-17,douglaskelly@example.net,+1-814-947-3404x33700,North Edward,Indiana,India,Retail,True,2025-03-12
+CUST00556,Tina,Gentry,Other,1950-01-18,mitchellchristopher@example.net,404.751.9577,Krystalchester,Missouri,India,Corporate,True,2023-07-04
+CUST00557,Tyler,Thompson,Female,1941-05-09,yorkjoshua@example.org,+1-658-482-5562x96575,Cassandrastad,North Dakota,India,Retail,True,2018-05-31
+CUST00558,Benjamin,Khan,Female,1997-01-02,joshua40@example.net,+1-478-265-6194x25577,West Jonathan,Montana,India,Corporate,True,2016-11-17
+CUST00559,Wayne,Thompson,Other,2007-05-11,munozrenee@example.net,282-395-8292x36161,North Tara,Arkansas,India,SME,False,2021-08-15
+CUST00560,Brittany,Gillespie,Male,1949-06-06,donnawood@example.org,001-704-782-3571,Laurieland,Michigan,India,SME,True,2017-05-03
+CUST00561,Molly,Osborn,Female,1996-07-20,kimberly37@example.org,+1-568-963-9561,North Ellenfort,Arkansas,India,Retail,False,2021-07-28
+CUST00562,Morgan,Sanders,Female,1965-11-08,cooperchristopher@example.org,(530)881-7214,New Andrea,Montana,India,Retail,True,2024-10-31
+CUST00563,Scott,Simpson,Male,1983-05-27,marymullins@example.com,338-613-0004x1321,South John,Kansas,India,Corporate,True,2022-06-30
+CUST00564,Alicia,Zuniga,Female,1984-05-19,cyoung@example.net,616.856.0945x653,Hallbury,Arizona,India,Corporate,True,2022-04-28
+CUST00565,Stephen,Hayden,Other,1980-02-21,jasonnavarro@example.com,+1-697-999-0707x550,Ericaport,Montana,India,Retail,True,2025-07-02
+CUST00566,Jennifer,Howe,Other,1958-02-21,maykarla@example.org,(981)669-9570x6071,Lake Calvin,Montana,India,Retail,False,2018-07-31
+CUST00567,Robert,Mcdowell,Other,1995-10-23,jacksonraymond@example.com,+1-911-231-7653,Brendachester,Kansas,India,SME,True,2018-02-11
+CUST00568,Diana,Smith,Female,1942-01-09,wreese@example.net,348-473-9610x29087,South Richardtown,Nevada,India,SME,False,2017-05-09
+CUST00569,Eric,Bradley,Female,1944-12-04,noahthornton@example.com,949.668.0491x872,Melanieville,Alabama,India,Retail,True,2024-03-24
+CUST00570,Terrance,Rodriguez,Female,2001-11-29,dustin60@example.com,(504)995-6121,East Christopherstad,Mississippi,India,SME,False,2023-03-02
+CUST00571,Tanya,Bird,Female,1970-09-11,ureyes@example.net,530.962.6042x3597,Jamesview,Arizona,India,Premium,True,2017-02-27
+CUST00572,Matthew,Mitchell,Other,1949-04-19,davisamanda@example.com,001-811-222-2990x775,Port Jessicabury,Florida,India,Corporate,False,2019-08-30
+CUST00573,Heather,Hays,Male,2002-02-01,pbishop@example.com,001-385-381-6704x686,North Jeanetteton,Washington,India,SME,True,2023-03-10
+CUST00574,Debra,Daniels,Other,1996-12-08,joseph14@example.net,245-476-8321,Cherylhaven,North Dakota,India,Premium,True,2021-05-17
+CUST00575,Melissa,Snyder,Female,1963-02-01,rmurray@example.net,992-337-8584,Smithbury,Tennessee,India,Retail,True,2021-10-14
+CUST00576,Melissa,Mays,Other,1943-06-12,jessicachapman@example.org,+1-729-261-8033x24260,Thomashaven,Colorado,India,SME,True,2023-09-18
+CUST00577,Michele,Rosales,Male,1971-11-21,erica25@example.net,501.984.9804x25373,Brownton,Tennessee,India,Retail,False,2016-10-02
+CUST00578,Norman,Mcdonald,Other,1951-12-19,chambersmarie@example.org,373.912.6881x2282,East Bryan,South Dakota,India,Corporate,True,2020-09-26
+CUST00579,Levi,Lee,Male,1979-07-26,gdavis@example.net,819.223.6534x60605,North Brooke,Nevada,India,Retail,True,2018-05-28
+CUST00580,Jennifer,Rodriguez,Female,1996-06-01,ubell@example.com,856.479.3279,North Christopherview,Louisiana,India,Premium,False,2019-03-01
+CUST00581,Katherine,Martin,Other,1967-05-27,james09@example.org,898.347.1690,North Jasonfort,Alabama,India,Retail,True,2019-12-31
+CUST00582,Monique,Stevens,Other,1942-07-19,maysdiane@example.org,+1-712-605-4647,East Danielfort,South Carolina,India,Premium,True,2020-10-10
+CUST00583,Barry,Scott,Other,1986-12-31,ericksondavid@example.net,+1-495-947-8769,New Lynnside,Ohio,India,SME,False,2018-10-30
+CUST00584,Casey,Lopez,Other,1952-04-17,nicholasgallagher@example.net,517-758-8914x44498,Williamsville,Pennsylvania,India,SME,True,2018-02-16
+CUST00585,Crystal,Doyle,Female,1955-02-21,pauladominguez@example.com,539-435-4358x64496,Hensonberg,Delaware,India,Premium,True,2017-08-22
+CUST00586,Samantha,Gibbs,Male,1953-04-08,steven17@example.com,001-543-558-8537x98214,Gabrielaton,Alabama,India,Corporate,False,2023-03-24
+CUST00587,Wendy,Bradley,Male,1959-07-28,qschwartz@example.com,+1-752-475-3674x978,Coreyport,Indiana,India,Corporate,True,2021-09-09
+CUST00588,Julie,Todd,Other,2000-08-12,fernando14@example.org,991-941-6860x134,Underwoodmouth,Pennsylvania,India,Corporate,False,2021-06-10
+CUST00589,Ryan,Thompson,Female,1942-11-24,dprice@example.com,+1-894-989-6340,Samanthaville,Arizona,India,SME,True,2022-05-23
+CUST00590,Corey,Chase,Male,1982-08-24,gregory17@example.org,+1-217-366-5122x150,East Susanmouth,Pennsylvania,India,SME,True,2024-10-31
+CUST00591,Cynthia,Prince,Male,1957-04-03,fwhite@example.org,218-384-2163x090,West Alyssa,Delaware,India,Corporate,True,2020-12-02
+CUST00592,Monique,Wilcox,Male,1960-08-10,amberreynolds@example.net,594-446-3339x99485,North Thomasburgh,Hawaii,India,Retail,True,2023-03-16
+CUST00593,Scott,Robertson,Male,1968-07-22,gainesjennifer@example.org,2894532638,Millstown,Arkansas,India,Corporate,True,2024-11-06
+CUST00594,Heather,Miller,Male,1977-12-27,jonesashley@example.com,599-547-1136,Taylormouth,West Virginia,India,Retail,False,2022-01-10
+CUST00595,Rebecca,Caldwell,Male,1944-09-08,fsmith@example.org,892.923.4103x469,Lake Jeremyville,Kansas,India,Corporate,True,2020-05-11
+CUST00596,Brandon,Lopez,Female,1959-07-26,fitzpatrickelizabeth@example.com,831.216.7726,Rodrigueztown,South Dakota,India,Retail,False,2020-07-07
+CUST00597,Laura,Taylor,Other,1949-11-15,isabelconway@example.net,+1-943-876-8550,Port Christinaberg,Alaska,India,SME,True,2019-07-27
+CUST00598,Kelly,Morris,Male,1954-02-07,robertsonshelby@example.com,793.752.1962x633,East Erica,Georgia,India,Corporate,True,2025-01-27
+CUST00599,Nicholas,Wright,Female,2000-09-12,ugraham@example.org,(243)843-6970x9317,Kingfort,Mississippi,India,Corporate,False,2024-08-13
+CUST00600,Dustin,Green,Female,1976-04-18,aaronfinley@example.com,001-355-860-7676,New Jamesmouth,Florida,India,Premium,False,2017-03-25
+CUST00601,Amanda,Young,Other,1983-06-08,bradleysavannah@example.com,553-245-4722x398,North Seth,Alaska,India,Corporate,True,2022-07-08
+CUST00602,Ashlee,Molina,Other,1995-02-02,evelyn60@example.net,(650)931-2198x0418,Castroville,Rhode Island,India,Retail,True,2020-03-06
+CUST00603,Laura,Finley,Male,1994-08-04,diazmelissa@example.com,(442)364-2364,East Laurenside,Kentucky,India,Premium,True,2021-07-03
+CUST00604,George,Turner,Other,2007-10-27,randallkathleen@example.com,819.409.2487,Lake Jenniferside,Michigan,India,Corporate,True,2022-05-07
+CUST00605,Christian,Sharp,Other,1993-09-17,gregorywilliams@example.com,303.991.1142,Kristenmouth,Hawaii,India,Corporate,True,2025-01-08
+CUST00606,Monica,Smith,Female,1964-12-17,kentprice@example.org,+1-452-628-2305,North Geoffreyview,Vermont,India,SME,False,2024-07-23
+CUST00607,Christine,Valdez,Female,1977-07-27,tom73@example.org,708.680.6220x72239,Jamesberg,Illinois,India,Premium,False,2017-06-06
+CUST00608,John,Schwartz,Female,1973-07-01,leejennifer@example.net,237.621.3290x162,South Tamara,Wyoming,India,Retail,True,2023-08-18
+CUST00609,Roberta,Brown,Male,2002-08-09,tracybrown@example.net,887.668.8687x859,Port David,New Jersey,India,Corporate,False,2019-03-28
+CUST00610,Douglas,Wilson,Male,1974-09-14,victor70@example.org,862.887.2031x95419,Port Victoriafurt,Wisconsin,India,SME,False,2018-12-31
+CUST00611,Steven,Parker,Other,1966-12-14,brian06@example.org,(445)605-7303x6279,Melanieview,Mississippi,India,Corporate,False,2020-11-08
+CUST00612,Jonathan,Sullivan,Other,1952-10-08,lindsaycontreras@example.com,(932)403-7476x7753,Estradatown,Oregon,India,Premium,False,2022-10-30
+CUST00613,Jonathan,Shaw,Male,1962-03-23,joycehall@example.org,(603)721-4505x76619,Owenstad,New Jersey,India,Retail,True,2017-01-24
+CUST00614,Albert,Jacobson,Male,1955-06-08,mosstracy@example.org,487.607.1553x48201,South Christineville,Vermont,India,SME,True,2021-11-08
+CUST00615,Linda,Padilla,Female,2001-06-15,nmeadows@example.org,7089385076,New Melissa,Rhode Island,India,Corporate,True,2023-11-23
+CUST00616,Rachel,Collins,Male,1993-06-25,jacquelineanderson@example.org,(295)345-0891x776,Heidiberg,Mississippi,India,Retail,True,2018-05-15
+CUST00617,Erica,Wilson,Male,1944-07-11,conwaylori@example.org,(865)674-2231,West Brianville,Iowa,India,Corporate,True,2020-12-02
+CUST00618,Eric,Hendricks,Other,2007-12-19,lcarr@example.org,(830)604-0236x9362,Klineberg,Delaware,India,Corporate,True,2020-08-02
+CUST00619,Scott,Phillips,Other,1976-07-17,wilsonbrooke@example.net,901.420.4713,Jonesfort,Oregon,India,Premium,True,2016-10-08
+CUST00620,Michael,Mendez,Female,1992-09-08,bryanharris@example.com,+1-771-417-5957x49885,East Jameston,Tennessee,India,Premium,True,2025-07-03
+CUST00621,Briana,Robinson,Male,2008-07-07,rnguyen@example.net,+1-998-849-3306x74584,Patriciaburgh,Idaho,India,Corporate,False,2021-11-11
+CUST00622,Danielle,Anderson,Other,2006-10-09,marcoconnell@example.org,5949412833,Melindaville,Montana,India,SME,True,2023-01-04
+CUST00623,Roger,Hernandez,Male,1947-05-09,watkinsmatthew@example.org,(718)685-6669,New Derrick,Arizona,India,Premium,False,2017-09-01
+CUST00624,John,Adkins,Male,1985-03-17,donald62@example.net,832-897-1506,Wesleybury,Arkansas,India,Premium,True,2020-03-08
+CUST00625,Megan,Obrien,Female,1958-08-31,angela73@example.net,(967)905-5143,North Kevinville,South Carolina,India,Premium,True,2022-07-09
+CUST00626,James,Perry,Male,1996-01-19,andersonkylie@example.net,(793)866-3439x2529,Burkeland,Virginia,India,Premium,True,2025-07-05
+CUST00627,Paul,Dunn,Female,2002-11-30,bstrickland@example.com,311-410-2867,West Micheleton,Ohio,India,Retail,True,2025-04-11
+CUST00628,Timothy,Ruiz,Other,1944-05-05,smithharry@example.org,3072202455,North Micheal,Nevada,India,Corporate,True,2023-06-23
+CUST00629,John,Medina,Other,2008-04-18,robert72@example.org,(245)510-9109,South Thomasstad,Arizona,India,Retail,True,2016-10-18
+CUST00630,Ashley,Beck,Other,1955-06-18,daniellemills@example.com,(367)614-9498,Wolfefurt,Florida,India,Retail,False,2017-11-26
+CUST00631,Bailey,Robinson,Other,1998-02-07,sharonbishop@example.org,(517)694-2817,East Elizabeth,New Jersey,India,Corporate,True,2025-03-12
+CUST00632,Victoria,Wright,Female,1994-10-06,jennifersalazar@example.org,6658277584,Jesseside,Minnesota,India,Premium,False,2022-04-01
+CUST00633,Kenneth,Fischer,Female,1964-09-01,michael08@example.org,(434)353-3722x01091,North Aarontown,New York,India,SME,False,2025-04-05
+CUST00634,Tiffany,Marks,Other,1997-08-10,davidmoreno@example.org,322.614.5593x766,Port Joshuafort,Maine,India,Premium,True,2023-04-13
+CUST00635,Dominique,Miller,Other,1998-01-06,michelle88@example.org,001-637-805-2635x100,Greenberg,Texas,India,Premium,True,2021-09-18
+CUST00636,Joshua,Griffin,Other,1952-07-07,qtownsend@example.org,(777)465-7256,Wagnershire,Massachusetts,India,Premium,True,2022-05-08
+CUST00637,Ashlee,Padilla,Female,1980-10-31,brian12@example.net,4245617520,Foleyville,Kentucky,India,Premium,False,2019-12-31
+CUST00638,Gina,Miller,Other,1995-05-13,kjimenez@example.net,297.343.2600x55955,Thomasside,Louisiana,India,SME,True,2023-11-29
+CUST00639,Julie,Elliott,Female,1987-12-24,brownmichael@example.org,583.832.5848x6899,Manuelville,South Dakota,India,Retail,True,2017-08-03
+CUST00640,Brandon,Brown,Male,2002-09-10,nking@example.com,001-307-998-4870x45069,New Kaylee,Pennsylvania,India,SME,False,2024-07-21
+CUST00641,Catherine,Kelley,Other,1942-06-17,garciabrian@example.net,(679)893-5937x44039,Velezmouth,Florida,India,Corporate,True,2020-04-12
+CUST00642,Tyler,Wagner,Female,1988-03-06,ericjohnson@example.net,308-630-3736x060,East Jimstad,Arizona,India,Premium,True,2020-08-11
+CUST00643,Rebecca,Armstrong,Female,2004-12-22,jonesjoe@example.com,+1-586-608-4907,Huntermouth,Massachusetts,India,SME,True,2017-08-24
+CUST00644,Justin,Hernandez,Female,1978-11-13,robert53@example.org,001-913-268-5283x06153,Jordanfurt,Maine,India,Corporate,True,2023-04-03
+CUST00645,Lauren,Murphy,Male,1978-10-31,jeremy36@example.org,524-424-4626,Port Emilymouth,West Virginia,India,SME,True,2025-06-12
+CUST00646,Catherine,Meyer,Other,1953-05-05,evance@example.com,(314)648-8112x103,East Jessica,Oklahoma,India,Premium,True,2020-04-06
+CUST00647,Michael,Wilson,Female,2007-09-23,bbrown@example.org,(317)951-8878,East Kennethport,Rhode Island,India,Premium,False,2025-02-10
+CUST00648,Dana,Harris,Other,2000-06-28,sarahgibson@example.com,+1-394-315-1526x38409,Changstad,Maine,India,Corporate,True,2016-07-20
+CUST00649,Christine,Aguilar,Female,1974-01-05,derek35@example.com,(225)728-8375,Robertomouth,Vermont,India,SME,False,2025-07-07
+CUST00650,Erica,Davis,Other,1961-07-22,matthewjohnson@example.net,(961)986-3239x7913,Thomasstad,Maine,India,Premium,True,2023-04-05
+CUST00651,Jennifer,Dixon,Male,1973-11-21,ramirezdaniel@example.com,(755)830-0730x9505,South Cristianmouth,Michigan,India,Corporate,False,2024-10-10
+CUST00652,Donna,Stokes,Female,1946-09-05,wbarnes@example.com,001-905-971-2198x8192,North Margaret,Iowa,India,SME,True,2019-01-15
+CUST00653,Mary,Chavez,Female,1956-05-11,oliviamunoz@example.net,+1-885-619-0534,Martinezfurt,North Carolina,India,SME,False,2023-11-03
+CUST00654,Courtney,Palmer,Male,1955-06-03,belindatran@example.org,7108424624,Karenfort,Colorado,India,Corporate,False,2024-10-31
+CUST00655,Rebecca,Bryant,Other,1976-05-04,jenkinsaimee@example.org,285-617-4460,South Elizabeth,Delaware,India,SME,True,2017-09-30
+CUST00656,Debbie,Brown,Female,1940-08-02,rhood@example.org,321-428-9915x11455,East Connormouth,Oklahoma,India,SME,True,2024-03-06
+CUST00657,Kyle,Ford,Male,2002-12-16,pfitzgerald@example.org,001-339-613-0448,Tiffanyhaven,Alaska,India,Premium,True,2017-09-09
+CUST00658,Scott,Roman,Female,1954-03-29,ryan39@example.org,+1-641-260-4615,Port Jacobmouth,South Dakota,India,Premium,True,2022-08-29
+CUST00659,Bethany,Cummings,Female,1949-05-31,butlerbradley@example.com,(711)890-1707,Loriport,Oklahoma,India,Premium,True,2025-05-07
+CUST00660,Jessica,Foster,Female,1989-04-17,simmonsphillip@example.net,+1-414-429-8315,Janiceburgh,Delaware,India,Corporate,True,2018-12-16
+CUST00661,Christopher,Velasquez,Other,2003-01-07,chavezjohn@example.net,+1-691-507-3228x3608,Williamsshire,Virginia,India,Retail,True,2021-11-01
+CUST00662,Kenneth,Reese,Male,1997-12-14,steelerichard@example.org,883.806.3963x8452,West Jordan,Oklahoma,India,SME,True,2016-11-23
+CUST00663,Julie,Lane,Male,1962-07-18,michaelallen@example.org,001-944-239-1649,Jenningsfurt,Rhode Island,India,Corporate,True,2024-08-20
+CUST00664,Gregory,Williams,Male,1942-01-12,castillokevin@example.net,369-534-2929,South Jacob,Missouri,India,Retail,True,2018-06-02
+CUST00665,David,Cooper,Male,1980-06-06,vhodge@example.net,(603)330-1623,Wendymouth,Minnesota,India,Retail,True,2020-06-23
+CUST00666,Amber,Brown,Female,2002-11-30,braysteven@example.org,001-903-410-6153,Pattersonberg,South Dakota,India,Corporate,True,2020-05-07
+CUST00667,Teresa,Mcknight,Other,1993-03-13,xlopez@example.net,(515)456-6847,South Denisefurt,Minnesota,India,Retail,True,2018-07-11
+CUST00668,Alyssa,Michael,Male,1998-02-07,apadilla@example.net,265.633.7746,East Timothy,North Dakota,India,Premium,False,2020-04-29
+CUST00669,Robin,Jones,Other,1999-01-25,cruzhannah@example.net,5678200784,Port Maryborough,Indiana,India,Corporate,False,2019-10-06
+CUST00670,Maria,Peck,Male,2005-11-10,phillipskaren@example.net,342-944-2607,Jaredside,Maine,India,SME,True,2023-03-15
+CUST00671,Jonathan,Johnson,Male,1965-12-11,kristinmiller@example.com,(943)473-4764x273,Alvarezberg,Maine,India,Premium,False,2017-05-20
+CUST00672,Makayla,Ortiz,Female,2004-08-04,robertsonrenee@example.com,6377638821,Cassandraborough,Wisconsin,India,SME,True,2024-04-25
+CUST00673,Timothy,Mack,Female,1967-06-11,rodriguezmichael@example.net,541.448.4601x91344,Bowenfort,Michigan,India,Retail,True,2022-01-25
+CUST00674,Lindsay,Cannon,Female,1947-05-31,diazgregory@example.net,+1-578-402-0586x9507,South Paulatown,Montana,India,Premium,False,2019-06-27
+CUST00675,Julie,Good,Other,1961-01-22,castrokim@example.org,746-344-9369,Zacharyhaven,Montana,India,SME,False,2022-04-05
+CUST00676,Matthew,Brewer,Female,1949-10-27,john17@example.net,(979)533-5055x7385,Garzabury,Hawaii,India,Corporate,True,2019-01-09
+CUST00677,Darius,Fisher,Female,1951-04-02,karenhodges@example.com,(380)311-9236x03768,North Heather,Hawaii,India,Retail,True,2020-03-03
+CUST00678,Sydney,Haney,Male,2005-01-19,rachael86@example.com,+1-387-623-3351x04096,Kimberlyview,Rhode Island,India,SME,False,2019-01-03
+CUST00679,Donald,Reyes,Male,1994-05-21,brownmichael@example.com,+1-597-231-5391x1498,West Kristinahaven,Utah,India,Retail,False,2016-10-12
+CUST00680,Tammy,Kane,Female,2005-11-12,harrisonamanda@example.net,548.620.7365x1189,South James,Mississippi,India,SME,False,2018-01-06
+CUST00681,Michelle,Knox,Female,1984-09-07,shannon51@example.org,2656578201,Harmonmouth,Georgia,India,Corporate,True,2018-09-30
+CUST00682,Jennifer,Bennett,Other,1952-05-21,zmiller@example.org,422.630.2333,Pattersonview,Delaware,India,Premium,True,2024-04-06
+CUST00683,Tina,Vega,Other,2006-06-01,susan11@example.org,407.339.2013x546,West Jamesmouth,New York,India,SME,True,2017-02-06
+CUST00684,Tammy,Stanley,Male,1987-09-14,daniel27@example.org,(876)302-5082,Colefort,South Carolina,India,Retail,True,2019-04-11
+CUST00685,Linda,Ryan,Other,2003-09-14,abigailburton@example.com,423-612-6163,Portermouth,New York,India,Corporate,True,2020-02-05
+CUST00686,Michael,Valdez,Female,1994-01-21,imontes@example.org,001-588-989-9572x989,Jonathanchester,Arkansas,India,Premium,True,2019-10-13
+CUST00687,Krystal,Bailey,Female,1955-09-21,creed@example.net,(929)374-5493x03646,New Janettown,Massachusetts,India,Retail,True,2024-06-22
+CUST00688,Alexander,White,Male,1980-08-03,carterbryan@example.org,001-812-403-8187,Port Kimberly,Vermont,India,Corporate,True,2017-10-19
+CUST00689,Amanda,Medina,Female,1952-06-19,kellis@example.org,3825832308,Dylanburgh,Nebraska,India,Retail,True,2023-10-27
+CUST00690,Shawn,Rice,Female,1961-05-28,george43@example.com,+1-781-458-8144,Clarkfurt,Missouri,India,Corporate,True,2023-11-11
+CUST00691,Emily,Luna,Female,1987-05-12,tara02@example.com,(406)973-2318,South Jessica,Alabama,India,Premium,False,2017-07-12
+CUST00692,Emily,Walker,Female,1949-03-14,stephen29@example.org,268-215-7245,North Jasmin,Kansas,India,Premium,True,2019-12-29
+CUST00693,Brenda,Smith,Other,1990-02-06,ian22@example.org,001-900-700-1529x11371,Lake Dylan,Nebraska,India,Retail,True,2020-12-11
+CUST00694,Lynn,Johnson,Other,2005-01-22,darylchaney@example.net,6906255618,North Kathleenmouth,Connecticut,India,Corporate,False,2017-09-10
+CUST00695,Shelby,Evans,Other,2005-01-19,scottwood@example.org,321-482-9987x478,Denisefort,Nebraska,India,SME,True,2018-07-03
+CUST00696,Daniel,Nunez,Other,1967-03-04,wadetiffany@example.org,(848)990-5670,Lawsonfort,Florida,India,Premium,False,2021-08-24
+CUST00697,Jesus,Stephens,Other,2008-02-26,shane28@example.com,7093004365,South Frankport,Maryland,India,SME,False,2023-07-31
+CUST00698,Angel,Patel,Male,2006-03-05,knapprichard@example.com,(684)582-6691x362,New Nicole,Ohio,India,SME,True,2019-10-01
+CUST00699,Nicole,Morrow,Female,1942-09-29,staciereilly@example.org,550-554-2960x80706,Danielview,Nevada,India,Retail,True,2024-09-05
+CUST00700,Anna,Wright,Male,1981-07-03,cordovaamy@example.net,(699)287-9509x82210,Raybury,Alaska,India,Retail,True,2019-12-21
+CUST00701,Rose,Reed,Female,2003-03-04,deborah47@example.com,664-481-8804,West Gregoryville,New Hampshire,India,Retail,False,2022-01-18
+CUST00702,Jeffrey,Hill,Female,2006-05-02,laurenchandler@example.com,+1-377-838-3638,Mosestown,Alabama,India,Corporate,True,2019-07-21
+CUST00703,Bryan,Pineda,Female,1955-07-25,hannah70@example.org,832-612-6942x894,New Melissa,Maine,India,Premium,True,2021-10-13
+CUST00704,Madison,Hardy,Male,1978-12-31,parkerrichard@example.org,(303)662-5863,East Anthony,New Hampshire,India,Premium,True,2017-12-17
+CUST00705,Regina,Rodriguez,Female,2004-03-27,uhoward@example.org,001-841-570-6462x55402,Lake Robert,South Dakota,India,SME,True,2018-03-08
+CUST00706,Kevin,Pacheco,Female,1950-02-08,brandywalker@example.com,001-655-682-4301x7646,North Wendyview,Georgia,India,Retail,True,2022-09-15
+CUST00707,Ricky,Barnes,Other,1991-03-24,andrewryan@example.com,798.480.3153x88824,Lake Raymond,Wisconsin,India,Corporate,True,2019-12-02
+CUST00708,Donald,Miranda,Other,1956-09-22,daughertypreston@example.com,790.550.4043x333,Pooleton,Nebraska,India,Premium,True,2024-06-19
+CUST00709,Sophia,Stephenson,Female,2007-05-06,carrie80@example.net,949.351.6321x11978,Payneland,Montana,India,Corporate,True,2023-11-05
+CUST00710,Kevin,Smith,Other,1951-12-16,raymond65@example.com,+1-509-433-9137,Marshalltown,Alaska,India,Retail,True,2019-03-24
+CUST00711,Travis,Harris,Male,2000-09-28,alexander55@example.com,(353)906-0119x8756,Port Whitney,Florida,India,Retail,True,2016-12-10
+CUST00712,Colton,Garcia,Female,1946-07-29,fsawyer@example.org,368.480.0230x09156,Bradshawmouth,Illinois,India,Premium,True,2018-06-27
+CUST00713,Paige,Johnson,Male,1988-10-01,afigueroa@example.com,+1-880-236-5774x491,West Ginaton,Minnesota,India,SME,True,2024-04-06
+CUST00714,Derek,Harper,Other,1984-01-01,frank66@example.org,+1-336-659-5201x491,Brandyborough,California,India,SME,False,2023-09-03
+CUST00715,Shawn,Warner,Other,2000-10-31,thomaskevin@example.net,284-433-6875,South Mary,Mississippi,India,Retail,False,2023-11-13
+CUST00716,Ellen,Williams,Male,1970-11-29,carl96@example.org,001-763-722-3998x21374,West Sabrina,North Carolina,India,Retail,True,2019-06-13
+CUST00717,Julia,Yang,Female,1958-07-30,ortizrobin@example.com,(511)940-4288x60505,Laneville,Mississippi,India,SME,False,2025-04-17
+CUST00718,Sonya,Morales,Other,1957-07-05,angelapage@example.org,(566)708-1126x0030,Mooreview,Alaska,India,Retail,False,2023-03-24
+CUST00719,Robert,Young,Other,1945-02-24,jacobjames@example.net,(569)610-6271x5312,Hamiltonbury,California,India,Premium,True,2019-07-20
+CUST00720,Julia,Robinson,Other,1957-12-29,twilliams@example.net,450-568-8269x17768,New Jeffreyshire,Mississippi,India,Premium,False,2017-02-09
+CUST00721,Eric,Shields,Male,1947-11-21,troy73@example.org,544.901.3480x87354,Lake Raymondmouth,Illinois,India,Corporate,True,2023-01-14
+CUST00722,Robert,Brown,Male,1940-08-17,moorekevin@example.net,+1-988-226-0335x91015,Brucestad,Utah,India,SME,True,2018-05-31
+CUST00723,Corey,Gordon,Other,1966-10-14,swhite@example.net,+1-908-659-9144x920,Danielbury,Alabama,India,Retail,False,2024-12-20
+CUST00724,Tracy,Roberts,Female,1990-05-11,anthonyhubbard@example.com,001-826-699-9699,East Steven,California,India,Corporate,True,2025-04-03
+CUST00725,Ricky,Cabrera,Male,2006-06-10,georgemichael@example.com,+1-799-871-8428,Port Trevor,New Hampshire,India,Premium,True,2023-07-22
+CUST00726,Stephanie,Dennis,Female,2000-09-09,ooneill@example.net,+1-593-425-9140x8499,East Patriciaville,Iowa,India,SME,True,2024-11-12
+CUST00727,Antonio,Flores,Male,1974-01-26,hmccann@example.com,212.834.2669,Walkerton,Utah,India,Premium,True,2018-11-03
+CUST00728,Mitchell,Harper,Male,1966-04-18,brucefrancisco@example.org,+1-508-672-6176x072,Theresashire,Washington,India,Retail,False,2021-06-25
+CUST00729,Scott,Chambers,Female,1977-09-02,luisjohns@example.org,+1-438-293-5953,Brownchester,South Dakota,India,Corporate,True,2020-11-13
+CUST00730,Stephanie,Flores,Female,1947-06-10,frank45@example.com,805-761-2996x5082,Chavezmouth,Colorado,India,Retail,True,2018-03-01
+CUST00731,Melissa,Turner,Female,1973-02-23,brandon48@example.net,+1-726-841-8696,South Michelle,Nevada,India,Retail,True,2024-09-25
+CUST00732,Cory,Thomas,Male,1999-04-19,palmerkatie@example.org,+1-713-308-7612x3859,Michaelborough,New York,India,SME,False,2018-08-06
+CUST00733,Gina,Keller,Female,1984-10-22,georgegary@example.com,234-468-2394x840,Bakershire,Connecticut,India,SME,True,2016-07-18
+CUST00734,Amy,Walker,Female,1987-04-09,margaret44@example.net,530.308.6966x1016,Andrewtown,Massachusetts,India,Retail,True,2020-10-04
+CUST00735,Tiffany,Turner,Female,1951-08-08,cody95@example.org,239-650-0168,Turnertown,Nevada,India,SME,False,2018-09-16
+CUST00736,Michael,Brown,Female,1945-07-21,taylorjuan@example.com,549-915-0762,Goodmanstad,Arkansas,India,Corporate,False,2018-08-22
+CUST00737,Raymond,Fry,Female,1998-01-20,kpeterson@example.org,+1-662-805-3440x7779,Mathistown,Minnesota,India,Corporate,False,2018-10-24
+CUST00738,James,Hobbs,Female,1960-08-05,ericwalker@example.org,(707)226-6292,North Amy,North Dakota,India,Retail,False,2019-10-16
+CUST00739,David,Buck,Female,1962-03-19,butlersabrina@example.org,+1-317-676-0299,New Susanburgh,New Hampshire,India,Corporate,False,2019-12-10
+CUST00740,Melanie,Garrett,Male,2005-04-03,sandramendoza@example.com,9685841333,East Jacobland,Oregon,India,Retail,False,2023-03-10
+CUST00741,Shawn,Simmons,Female,1945-08-02,don79@example.net,925-352-3561,Kimberlyport,Arkansas,India,Corporate,False,2017-04-17
+CUST00742,Elizabeth,Simpson,Male,1952-02-09,gerald40@example.net,803.521.1920x613,New Antonio,Mississippi,India,Premium,True,2022-09-19
+CUST00743,Darlene,Compton,Other,1966-01-27,walkermelissa@example.org,652.677.8956x13371,Amyton,Florida,India,Retail,True,2019-03-04
+CUST00744,Carla,David,Other,1990-04-26,kyleclark@example.org,390-829-5026x480,East Rachel,Idaho,India,Corporate,True,2024-01-02
+CUST00745,Andrew,Powers,Male,1977-09-27,yvazquez@example.org,440-937-3416x781,Susanbury,Kentucky,India,Premium,True,2017-11-17
+CUST00746,Kristin,Floyd,Female,2001-08-12,smithtodd@example.com,001-378-522-1021x7982,East Adam,Maryland,India,Retail,True,2017-05-17
+CUST00747,John,Flores,Male,1946-11-15,gonzalezantonio@example.net,586-529-8579x736,East Michael,California,India,Corporate,True,2018-11-19
+CUST00748,David,Butler,Other,1980-12-07,harrisonrebekah@example.org,982-285-6053,East Lisamouth,Indiana,India,Corporate,True,2023-07-29
+CUST00749,Anne,Hernandez,Male,1982-04-09,turneralex@example.org,498.266.1770x6736,Melissaton,Kansas,India,Premium,True,2020-08-29
+CUST00750,Casey,Bennett,Other,1973-05-14,morajamie@example.org,(306)882-1223x552,New Nicolebury,Pennsylvania,India,SME,True,2021-03-11
+CUST00751,Kathy,Webster,Male,1942-08-25,ellenjohnson@example.org,+1-350-458-7146x92182,Justinton,Massachusetts,India,SME,True,2021-11-05
+CUST00752,Jamie,Wells,Male,2004-08-17,stacy55@example.org,696-279-0898x43699,Port Richard,Maryland,India,Premium,False,2019-05-23
+CUST00753,Jason,Atkinson,Male,1951-10-06,williamjones@example.net,(620)650-9386,Heatherborough,New Hampshire,India,Premium,False,2017-02-09
+CUST00754,Molly,Turner,Male,2001-01-16,ricejennifer@example.com,+1-924-295-9881x1457,Port Kimberly,Oregon,India,Retail,True,2024-05-30
+CUST00755,Mark,Zimmerman,Male,1951-03-23,rachelmedina@example.net,001-471-252-3867x673,East Kelly,Kentucky,India,SME,True,2016-08-11
+CUST00756,Dylan,Shaffer,Other,1947-06-05,glasssamantha@example.net,+1-874-461-9177x987,South Samantha,Arkansas,India,Retail,True,2016-08-30
+CUST00757,Rachel,Melendez,Male,1954-07-09,lrichardson@example.org,+1-296-787-2258x937,Andersonside,Virginia,India,Corporate,True,2019-06-10
+CUST00758,Aaron,Hart,Male,1953-06-17,gnunez@example.org,+1-780-962-3504x05669,West Anneside,Missouri,India,Premium,True,2018-09-25
+CUST00759,Michele,Faulkner,Male,1987-12-14,tina63@example.net,001-700-612-4825,North David,Kentucky,India,Retail,False,2020-12-30
+CUST00760,Duane,Grant,Female,1989-08-22,rickjuarez@example.com,428-567-9632x594,Karenland,Washington,India,Premium,True,2020-06-16
+CUST00761,David,Anderson,Other,1990-03-07,owensapril@example.com,+1-428-694-6338x9156,New Brian,West Virginia,India,Retail,False,2017-05-23
+CUST00762,John,Sanchez,Male,1958-07-31,janet80@example.org,452-485-7256,Karenfurt,Mississippi,India,Corporate,True,2018-04-15
+CUST00763,Greg,Harris,Other,1959-09-08,tristan64@example.com,(893)735-8951x3818,Rebeccaberg,Indiana,India,Corporate,True,2022-10-28
+CUST00764,Donna,Lucas,Male,1956-09-10,gloria73@example.net,(607)684-6850x957,North Douglasfort,Connecticut,India,SME,True,2023-10-12
+CUST00765,Anthony,Nielsen,Female,1943-12-01,broberts@example.org,303.949.1891,Gonzalezfort,Utah,India,SME,True,2021-01-21
+CUST00766,Alexis,Boone,Other,1979-06-04,jacobsonleah@example.net,+1-772-503-8593x401,Parkerstad,Massachusetts,India,Corporate,False,2017-01-28
+CUST00767,Kristy,Davis,Female,1997-08-26,harry71@example.com,(741)554-7155x3132,Ernesttown,Vermont,India,Retail,True,2023-01-17
+CUST00768,John,Hardy,Female,1950-12-26,rmills@example.org,(678)313-6750x09421,Whiteview,New Jersey,India,Premium,True,2021-05-12
+CUST00769,Mario,Lee,Male,1965-01-28,thomasrichard@example.net,9522769819,New Jamesmouth,Pennsylvania,India,Corporate,True,2025-03-23
+CUST00770,Grant,Adams,Other,1969-08-14,figueroapatricia@example.org,+1-827-404-5238x885,Christyville,Arkansas,India,Corporate,False,2017-04-23
+CUST00771,Brian,Nunez,Other,1960-07-27,coxjames@example.org,(858)966-0598,East Randall,Massachusetts,India,Retail,True,2018-05-24
+CUST00772,Judy,Morrison,Other,1985-07-23,bmartinez@example.net,+1-774-642-2758,Lake Jeremyfort,Washington,India,Corporate,True,2017-04-19
+CUST00773,Alicia,Russo,Other,1981-05-10,tramirez@example.net,+1-459-665-5942,Jessefurt,New Jersey,India,Corporate,True,2017-05-14
+CUST00774,Julie,Lopez,Male,1954-02-13,katelyn65@example.com,+1-711-565-0200x024,South Melissa,Delaware,India,Retail,True,2017-02-14
+CUST00775,Thomas,Gill,Male,1942-04-17,garcher@example.com,001-531-232-1551,Thomasberg,Oregon,India,Corporate,False,2018-08-07
+CUST00776,Kimberly,Ramsey,Female,1952-02-27,katrinarodriguez@example.com,857-808-3682x14448,Kingville,West Virginia,India,SME,True,2020-11-14
+CUST00777,William,Hansen,Male,1960-05-20,ocrawford@example.org,001-697-827-3677,Lake Anthony,Colorado,India,SME,True,2020-04-02
+CUST00778,Daniel,Mendoza,Other,1946-02-11,garciabrian@example.org,(302)558-2543,Martinezbury,Wisconsin,India,SME,True,2022-03-22
+CUST00779,William,Booth,Male,1997-12-01,lgregory@example.com,(481)223-1239,North Ashleyburgh,Tennessee,India,SME,True,2025-01-17
+CUST00780,Sonia,Cook,Female,1961-07-05,eric99@example.org,+1-449-510-6018x3647,Leslieberg,North Dakota,India,Corporate,True,2016-09-02
+CUST00781,Bradley,Krueger,Other,1967-07-27,guerreroapril@example.com,001-487-450-8276x817,Bruceburgh,South Dakota,India,Premium,True,2023-09-22
+CUST00782,Krista,Smith,Other,1973-10-19,qharris@example.com,(277)754-5847x262,North Michaelbury,Oregon,India,SME,True,2017-03-28
+CUST00783,Michelle,Giles,Female,1985-06-29,iwagner@example.com,(891)287-6831,Michaelmouth,Ohio,India,SME,True,2020-08-23
+CUST00784,Adrienne,Hayden,Female,1946-09-27,cisnerosanthony@example.com,+1-527-917-2173,West Jasonberg,Montana,India,Corporate,True,2016-12-12
+CUST00785,Stephen,Wilson,Other,1977-07-17,reyesleonard@example.com,001-539-892-0522x299,New Danielleport,Nevada,India,Corporate,True,2022-07-31
+CUST00786,Tamara,Key,Male,1953-02-10,cstevens@example.org,(416)559-1438,Lake Maureen,West Virginia,India,Retail,True,2022-03-20
+CUST00787,Bruce,Mendoza,Male,2000-10-02,nicole27@example.com,(655)639-8358,Washingtonshire,Maryland,India,SME,True,2019-06-03
+CUST00788,Timothy,Sanchez,Other,1965-08-29,larryprice@example.org,(617)977-3264x30954,Littleview,Virginia,India,Retail,True,2019-04-02
+CUST00789,Richard,Munoz,Other,1970-11-08,rkeller@example.net,+1-312-479-9702x927,Jacobsberg,Montana,India,SME,True,2019-07-07
+CUST00790,Gina,Harris,Other,1958-06-12,kalvarez@example.net,9537978713,Heatherview,Pennsylvania,India,Premium,False,2020-08-16
+CUST00791,Tracy,Herman,Male,1972-03-01,myerstroy@example.com,(498)783-2201,East Tara,Indiana,India,Corporate,True,2017-01-05
+CUST00792,Renee,Arnold,Male,1955-12-05,katie45@example.org,(908)732-0048x7978,Lake Lori,Nevada,India,Corporate,True,2022-04-27
+CUST00793,Charles,Rowe,Other,1958-10-21,garzadavid@example.com,+1-635-585-2386x00304,Isabellaside,Michigan,India,Retail,True,2022-05-28
+CUST00794,Christopher,James,Female,1944-09-24,lisa90@example.net,(219)495-1715x2391,New Henrytown,Missouri,India,Retail,True,2016-07-23
+CUST00795,Charlene,Ferguson,Other,1991-09-11,oscar65@example.com,+1-292-595-0143x7483,Kelseyfort,Delaware,India,Corporate,True,2024-04-24
+CUST00796,Cameron,Howard,Other,1985-12-05,qbell@example.org,3964713971,Williamsfort,Oklahoma,India,Corporate,True,2023-12-08
+CUST00797,Joshua,Green,Male,1946-05-15,jimmycollins@example.org,(302)321-3217x6720,Gallegosborough,Kansas,India,Corporate,True,2022-06-13
+CUST00798,Cynthia,Hunt,Other,1963-12-02,meltondanny@example.org,216-961-2201,East Katherine,Illinois,India,SME,True,2018-09-27
+CUST00799,Amy,Crawford,Male,1977-05-11,ryanbenjamin@example.net,(658)573-3930,Gomezstad,Massachusetts,India,SME,False,2023-10-25
+CUST00800,Mark,Garcia,Female,2006-07-20,abradley@example.com,(365)338-0274x81242,East Matthewside,Virginia,India,Premium,False,2017-03-09
+CUST00801,Virginia,Zavala,Other,1980-08-23,dominguezbrianna@example.com,608-868-2509x5229,Susanview,Rhode Island,India,SME,True,2025-01-06
+CUST00802,Alyssa,Harrison,Female,1978-03-09,uhudson@example.net,(509)735-5610,New Matthewhaven,New York,India,Corporate,True,2018-02-25
+CUST00803,Shawn,Franco,Other,1997-09-18,stokescraig@example.net,(697)501-3712,Jillhaven,Kentucky,India,SME,False,2023-03-24
+CUST00804,Catherine,Rocha,Female,1996-03-11,matthewshaw@example.net,(258)458-5642x30412,Port Joanne,South Dakota,India,Retail,False,2016-08-25
+CUST00805,Cory,Wood,Male,1969-01-03,garrett45@example.com,406.215.9273x8740,Port Malik,Texas,India,Corporate,False,2016-11-02
+CUST00806,Jacqueline,Gutierrez,Other,1976-12-15,tylerboone@example.org,316.769.0632x248,Pagefort,Oklahoma,India,SME,True,2018-03-15
+CUST00807,Melissa,Hart,Other,1999-06-29,karlwilliams@example.net,942-903-4030x10956,South Kristina,New Jersey,India,Corporate,True,2017-01-10
+CUST00808,Debra,Walker,Female,1972-10-30,nballard@example.net,(464)591-5795x546,Lake Williamfurt,Montana,India,Retail,False,2025-03-03
+CUST00809,Kayla,Thomas,Male,2000-06-29,robbinsbelinda@example.net,371-324-7601x080,Martinezshire,Oklahoma,India,Retail,True,2020-06-04
+CUST00810,Jennifer,Green,Female,1972-12-04,joshua98@example.com,6303683176,West Kevin,Alabama,India,SME,True,2019-07-22
+CUST00811,Jason,Donovan,Female,1945-11-29,yclark@example.org,226.380.8081x5712,Port Kimberly,Mississippi,India,Corporate,False,2022-05-12
+CUST00812,Shannon,Riley,Male,2001-12-06,william46@example.net,707-313-8067x13073,Jillianland,Utah,India,Premium,False,2025-01-07
+CUST00813,Jeremy,Butler,Female,1989-02-11,james64@example.net,4453847436,Jacksonburgh,New Jersey,India,Retail,True,2024-09-23
+CUST00814,Matthew,Hernandez,Female,1974-09-07,jpowers@example.org,001-830-809-6258x857,East Molly,Arkansas,India,Premium,True,2016-09-16
+CUST00815,Shawn,Rivera,Other,2001-10-09,burtonzachary@example.org,+1-847-403-1805x339,Port Danielburgh,Wyoming,India,SME,True,2019-06-24
+CUST00816,Robert,James,Female,1994-12-21,vlewis@example.com,446.966.2159x183,Jessicafurt,Idaho,India,Retail,False,2024-01-07
+CUST00817,Cody,Whitaker,Other,1986-08-12,sharon89@example.com,7002466614,Port Nicole,Kansas,India,Premium,True,2018-01-19
+CUST00818,Ronald,Porter,Male,1982-09-20,boydmichael@example.org,001-511-307-9771x40049,Sethside,West Virginia,India,Retail,True,2023-03-17
+CUST00819,Elizabeth,Pena,Female,1948-09-20,edwardjennings@example.com,001-294-690-5315x204,Lopezview,Vermont,India,Premium,False,2017-05-27
+CUST00820,Nicholas,Cohen,Male,1992-01-12,ejenkins@example.net,+1-397-869-8731x3797,Lake Alexander,New Mexico,India,Corporate,True,2023-08-20
+CUST00821,Elijah,Scott,Other,1952-04-18,meghanadams@example.com,(998)941-6612x3740,Port Francisco,New Mexico,India,Corporate,False,2016-10-13
+CUST00822,Sandra,Underwood,Other,2007-06-24,jonathanburke@example.com,001-643-332-5623,Christophershire,Washington,India,SME,True,2020-03-20
+CUST00823,Carlos,Levy,Other,2006-08-25,daniellee@example.org,+1-970-414-2620x370,New Alexander,Colorado,India,Retail,False,2016-11-13
+CUST00824,Marie,May,Female,1995-07-08,steven86@example.com,316-502-0418,New Jacquelinechester,Ohio,India,Premium,True,2019-05-17
+CUST00825,Christopher,Henry,Other,1949-02-14,harrisjoseph@example.org,(299)689-8972x117,Jacksonmouth,Kentucky,India,SME,True,2018-11-04
+CUST00826,Colin,Jackson,Other,1969-05-01,kristine48@example.org,+1-580-918-6448x22175,East Roberttown,Kansas,India,Corporate,True,2023-03-09
+CUST00827,Joanne,Norton,Female,2007-09-29,stuarttodd@example.org,957.308.2004x80675,Samanthamouth,Alabama,India,Corporate,True,2021-08-20
+CUST00828,Lisa,Jackson,Female,1970-02-23,heathchristopher@example.net,(336)491-4961,New Michaelborough,Tennessee,India,SME,True,2016-09-16
+CUST00829,Angela,Cortez,Female,2008-05-10,michelle65@example.net,279.642.9688x27697,North Thomas,Connecticut,India,Retail,False,2025-05-21
+CUST00830,Brenda,Freeman,Other,1983-03-12,sandersmary@example.org,3957314196,Deborahtown,Oregon,India,Premium,True,2020-02-26
+CUST00831,Anna,Stark,Other,1997-04-05,danielnavarro@example.org,(307)983-2748x83565,New Charles,Idaho,India,Corporate,True,2024-07-28
+CUST00832,Mark,Weaver,Female,1958-01-29,tyler13@example.net,001-862-840-9649,New Jeffreystad,Hawaii,India,SME,True,2018-05-23
+CUST00833,David,May,Female,2002-06-23,mejialawrence@example.net,+1-634-496-0478,New Christine,Alaska,India,Corporate,True,2023-03-14
+CUST00834,Michael,Brown,Male,2002-09-15,vshaffer@example.org,470-728-5162,East Kenneth,Rhode Island,India,Corporate,False,2017-10-21
+CUST00835,Elizabeth,Johnson,Male,1945-02-05,grobinson@example.org,001-536-648-8208,Davisshire,Mississippi,India,Premium,True,2017-10-04
+CUST00836,Karen,Bradford,Female,1966-12-07,taragonzales@example.com,+1-668-883-9062,South Melissa,Nevada,India,Retail,True,2017-10-08
+CUST00837,Miranda,Landry,Female,1967-07-25,henrynicholas@example.org,328.579.9160x9114,South Tammyhaven,New York,India,Retail,True,2016-11-15
+CUST00838,Jennifer,Barnett,Male,1962-09-20,amy73@example.com,593-559-2361,South Todd,Kansas,India,Premium,False,2025-06-17
+CUST00839,Tanya,Duran,Female,1959-04-28,michaelbaldwin@example.com,760.252.3045x8816,West Ricardofurt,Indiana,India,SME,False,2018-08-17
+CUST00840,Caroline,Gutierrez,Other,1971-09-12,brewerrebecca@example.org,(354)847-2419,Lake Kaitlinton,Illinois,India,SME,True,2025-05-02
+CUST00841,Michael,Kirby,Other,1999-12-09,vazquezkristina@example.org,403-644-0966x17718,Cantrellberg,Georgia,India,Retail,False,2017-09-17
+CUST00842,Becky,Hall,Other,1994-01-10,angela45@example.net,+1-389-680-8806x782,Campbellhaven,Vermont,India,Corporate,True,2022-07-10
+CUST00843,Jason,Mann,Female,1982-11-28,nicholsjoel@example.com,474-868-1359,Alexshire,Virginia,India,Corporate,True,2016-12-18
+CUST00844,Diane,Smith,Female,1976-01-28,zsmith@example.com,+1-964-686-9893x9698,Jeremyburgh,Rhode Island,India,SME,True,2019-12-09
+CUST00845,Jeffrey,Wagner,Male,1969-01-27,christopher34@example.org,469.441.5594x50119,West Rodney,Vermont,India,Premium,True,2022-06-08
+CUST00846,Daniel,Brooks,Female,1968-09-21,ruthwelch@example.net,9753360511,Mckenzieberg,New Mexico,India,Corporate,True,2017-05-26
+CUST00847,Megan,Williamson,Female,1950-08-14,rmccormick@example.org,(603)798-8636x53621,Lake Daniel,Indiana,India,SME,True,2022-07-05
+CUST00848,Michael,Estrada,Male,1980-07-09,aruiz@example.com,(690)667-0009x942,Port Robert,Utah,India,Premium,True,2022-01-24
+CUST00849,Kathryn,Jensen,Female,1992-02-10,gmcdowell@example.org,(804)966-4896,Lake Sharonview,Florida,India,Retail,True,2016-12-15
+CUST00850,Audrey,Webb,Male,2004-06-09,william56@example.net,(205)964-2045x65775,Jenniferchester,Indiana,India,Premium,True,2017-03-21
+CUST00851,Lindsay,Freeman,Female,2003-06-09,shawn00@example.net,853-438-9062x3546,Derrickborough,Oregon,India,Retail,True,2023-05-13
+CUST00852,Megan,Smith,Female,1978-10-21,crystalgibbs@example.org,+1-226-254-0165x9953,South Michaelport,Montana,India,SME,True,2018-11-04
+CUST00853,Terri,Arnold,Female,1947-05-30,moralescourtney@example.com,001-962-621-2242x767,Lake Jamesburgh,Maine,India,Premium,True,2019-04-20
+CUST00854,Loretta,Smith,Female,1959-12-30,rodriguezjohn@example.net,(725)691-6011x2411,Harrisonfurt,Kentucky,India,SME,False,2018-07-21
+CUST00855,Christina,Moreno,Other,1976-12-18,melaniejennings@example.com,+1-886-900-8017,Thomaschester,Arizona,India,Retail,True,2017-06-13
+CUST00856,Dawn,Hill,Other,1963-12-04,vmendoza@example.org,001-678-923-1299x570,South Micheleborough,Idaho,India,Corporate,True,2018-08-03
+CUST00857,Anthony,Madden,Female,1968-06-25,glenn95@example.com,(264)526-1212,Cassandraburgh,Oklahoma,India,Corporate,False,2018-02-08
+CUST00858,Sarah,Smith,Other,1966-08-03,christopherrichardson@example.com,743.475.3659x68078,Port Joshuachester,Florida,India,Retail,True,2018-03-04
+CUST00859,Maria,Li,Male,1973-07-24,kduffy@example.org,(748)624-2183x854,South Markmouth,Massachusetts,India,Corporate,True,2019-12-13
+CUST00860,Joseph,Craig,Other,1981-12-13,vaughansandra@example.net,4065445475,New Andreatown,Kansas,India,Corporate,True,2025-04-17
+CUST00861,Henry,Drake,Male,1943-02-02,rebeccamccann@example.org,912-332-7489,Port Meghanshire,Wisconsin,India,Premium,True,2023-09-16
+CUST00862,Jacqueline,Browning,Male,1959-04-09,jacqueline20@example.com,876.433.4272x038,East Kevin,Hawaii,India,Premium,False,2017-12-18
+CUST00863,Kyle,Rodriguez,Male,1950-04-28,jburke@example.org,575-208-0196,North Nicole,Montana,India,Corporate,True,2023-02-19
+CUST00864,Matthew,Davis,Other,1981-12-06,george91@example.org,553-706-9358x824,Annmouth,New Jersey,India,Premium,True,2018-10-29
+CUST00865,Adam,Hernandez,Female,1987-09-17,dayala@example.net,940.601.8167,Josephview,Missouri,India,Retail,True,2024-01-12
+CUST00866,Molly,Lee,Female,1943-03-07,twilson@example.org,516.752.4445x44608,Port Tylerbury,South Carolina,India,Premium,False,2020-03-30
+CUST00867,Ashley,Fox,Other,2001-01-12,sophiali@example.com,001-317-499-3781x053,Michaelmouth,Pennsylvania,India,Premium,True,2019-02-02
+CUST00868,Richard,Ochoa,Male,1963-01-31,julie62@example.com,+1-878-484-8699,New Madison,Tennessee,India,Premium,True,2017-09-03
+CUST00869,Donald,Adams,Other,1956-09-11,carolcarney@example.com,001-890-545-7927x14724,Shanetown,Idaho,India,SME,True,2019-04-12
+CUST00870,Cynthia,Sanders,Female,1991-04-03,robertortiz@example.org,5195864242,West Morgan,Kentucky,India,Retail,True,2021-01-16
+CUST00871,Anthony,Watson,Other,2003-02-27,robertsjose@example.net,001-372-983-3912,Juliefurt,Hawaii,India,Corporate,False,2019-03-23
+CUST00872,Julie,Sullivan,Other,2001-07-16,xsolomon@example.net,5624932880,South Anita,New Hampshire,India,Corporate,True,2023-10-11
+CUST00873,Jason,Cunningham,Female,1941-12-01,emiller@example.org,(210)310-2320,West Haleyburgh,New Mexico,India,SME,False,2022-01-09
+CUST00874,Robert,Branch,Female,1996-02-15,terri63@example.net,001-986-876-6100x898,New Ryan,Kansas,India,Premium,True,2020-05-23
+CUST00875,Matthew,Perez,Male,1961-02-23,verickson@example.net,608-214-3561,Bryantown,South Carolina,India,Retail,True,2016-08-01
+CUST00876,Mitchell,Sutton,Male,1959-08-09,charles80@example.org,001-438-545-3198x0746,New Matthewhaven,Virginia,India,Retail,False,2018-11-29
+CUST00877,Jennifer,Abbott,Female,1973-12-21,sarah75@example.net,746-695-1003x07620,Conniemouth,Hawaii,India,Corporate,True,2021-02-22
+CUST00878,Kimberly,Valdez,Male,1987-11-19,smithwilliam@example.com,396-271-5006x66641,Harmonview,Iowa,India,SME,True,2020-05-27
+CUST00879,Ashley,Garrison,Female,1947-03-22,tiffany52@example.net,+1-865-641-1340x7851,North Peter,Washington,India,SME,True,2018-12-12
+CUST00880,Christopher,Malone,Other,1999-08-17,carpenterjorge@example.net,001-697-408-9058x36683,Jimmyshire,Ohio,India,SME,True,2023-04-01
+CUST00881,Brian,Davis,Male,1949-09-05,dconrad@example.org,(889)399-6269x7083,Port Laurenshire,Michigan,India,SME,True,2023-02-08
+CUST00882,Eric,Gray,Female,2006-10-15,stewartalyssa@example.org,387.991.5059x6257,South Amanda,Tennessee,India,Retail,True,2021-10-15
+CUST00883,Christine,Tran,Other,1970-09-03,darryl02@example.com,(409)832-0126x5789,Emilyton,Georgia,India,Premium,True,2019-10-01
+CUST00884,Emily,Brown,Other,1996-09-11,julie64@example.com,9417809521,Tracychester,Arizona,India,Corporate,False,2020-06-22
+CUST00885,Joseph,Smith,Female,1958-11-11,zachary62@example.com,485-317-7741x27469,West Jeffreyhaven,Florida,India,Retail,True,2020-08-15
+CUST00886,Ebony,Jackson,Female,1968-11-18,jgallagher@example.net,488-824-1996,Joshuamouth,Kansas,India,SME,True,2022-07-27
+CUST00887,Todd,Porter,Other,1984-06-09,jbrown@example.org,622-729-7589x170,South Jessicaland,Utah,India,SME,True,2022-03-01
+CUST00888,Scott,Hamilton,Other,1953-04-27,isaacharrison@example.org,421-285-4570x568,Bridgesstad,Idaho,India,Corporate,True,2024-05-04
+CUST00889,Joshua,Mueller,Female,1954-12-01,fgraham@example.org,001-322-857-0900,Scottchester,Alaska,India,Premium,True,2018-09-21
+CUST00890,Kari,Knight,Female,1996-07-27,tkelly@example.net,656.940.7232,Andersonfurt,Oregon,India,Premium,False,2022-06-30
+CUST00891,Daniel,Hodge,Other,1990-12-04,hellis@example.net,(382)989-5400,South Angela,Connecticut,India,Premium,True,2021-06-28
+CUST00892,Russell,Davis,Other,1992-03-09,daviddavis@example.com,282.924.7312x61685,West Donnaland,Kentucky,India,SME,True,2022-03-01
+CUST00893,Justin,Rice,Female,1999-07-06,marybrady@example.com,205-480-1195,Lisashire,Vermont,India,Retail,True,2018-02-18
+CUST00894,Erika,Williams,Female,1996-05-15,brandybonilla@example.net,411.552.6105x370,North Edwardfort,Alabama,India,Retail,False,2020-10-14
+CUST00895,Tommy,Lewis,Other,1975-07-31,robertjones@example.com,9076169500,New Megan,California,India,Premium,False,2018-08-17
+CUST00896,Elizabeth,Parrish,Female,1951-05-09,clayanthony@example.net,001-918-894-8543x298,Port Zacharymouth,Nevada,India,Corporate,True,2020-03-07
+CUST00897,Brandon,Clay,Female,1961-09-12,longbrittany@example.org,001-689-936-5294,Lake Shawnside,South Carolina,India,Premium,True,2023-07-05
+CUST00898,Randall,Alvarez,Female,1975-01-02,eric17@example.net,001-216-619-8273x48131,Smithbury,Illinois,India,Premium,True,2019-07-20
+CUST00899,Carol,Williams,Female,1949-10-07,rgibson@example.net,902-658-9632x17435,Robertchester,Iowa,India,Corporate,True,2018-02-19
+CUST00900,Adrian,Jones,Male,1998-06-06,riverabradley@example.net,535.526.8064x86067,West Rachelbury,Wisconsin,India,Premium,True,2019-12-29
+CUST00901,Kevin,Frost,Male,2000-05-02,unguyen@example.net,001-644-888-3842x536,South Joseph,Idaho,India,Corporate,False,2025-03-05
+CUST00902,Jason,Lam,Other,1942-07-05,jasonwilliams@example.net,(280)855-0774,Vargasbury,North Dakota,India,Corporate,True,2019-11-17
+CUST00903,Derrick,Elliott,Male,1953-08-25,marcus01@example.net,(279)255-1562x392,North Randy,Louisiana,India,Retail,False,2019-07-13
+CUST00904,Jonathan,Johnson,Female,1997-03-07,tammyglenn@example.org,+1-355-510-7409,Wadetown,Maine,India,Corporate,True,2024-02-29
+CUST00905,Mark,Mcfarland,Male,1997-06-15,phelpsfrank@example.com,411-778-6190,Ruizville,Florida,India,Premium,True,2018-12-12
+CUST00906,Adrian,Edwards,Other,1957-07-04,deborah21@example.com,376-402-2069x5354,East Jessica,Indiana,India,Corporate,True,2023-06-01
+CUST00907,Julie,Ali,Other,1971-07-31,vowen@example.com,2124275950,Jenkinsfort,Maryland,India,Premium,True,2020-01-19
+CUST00908,Gregory,Matthews,Other,2002-12-20,michaeldavis@example.com,(201)951-5325x94795,Kimberlytown,New York,India,Corporate,True,2017-12-16
+CUST00909,Omar,Goodwin,Male,1988-06-15,tracymcclure@example.com,707-217-3279x8059,Romerohaven,Texas,India,Retail,True,2023-08-17
+CUST00910,Jane,Marquez,Male,1959-03-04,anna61@example.com,210.506.4934,Murphyhaven,California,India,Premium,True,2024-05-22
+CUST00911,Vincent,Sanders,Male,1996-07-16,christina66@example.org,001-691-304-5203x608,Ericaton,Rhode Island,India,Premium,True,2021-02-19
+CUST00912,Martha,Jones,Other,1974-11-21,palmerteresa@example.net,484-791-3599,Ruizborough,Pennsylvania,India,Premium,True,2022-02-11
+CUST00913,Linda,Martin,Female,1983-10-01,deborahreeves@example.com,(835)995-2056x100,Harrisburgh,North Dakota,India,Corporate,True,2020-04-15
+CUST00914,Charles,Allen,Female,1948-12-18,robertssamuel@example.com,001-390-806-9680,Archertown,Georgia,India,Retail,True,2019-03-29
+CUST00915,Michelle,Davenport,Other,1942-08-15,edgar24@example.org,001-677-640-3784x233,Laurenmouth,Rhode Island,India,Retail,False,2018-12-09
+CUST00916,Bobby,Price,Other,1965-11-13,dphillips@example.net,001-453-700-6776,Port Emilyport,Alabama,India,Retail,True,2023-08-01
+CUST00917,Andrew,Mosley,Other,1980-12-08,lowerywilliam@example.net,403-625-0173x65426,East Maria,Utah,India,Retail,True,2019-11-12
+CUST00918,Samantha,Rivera,Other,1952-08-13,dgutierrez@example.net,478-542-9029,Brownside,New Mexico,India,Corporate,True,2018-10-13
+CUST00919,Michelle,Campos,Female,1999-09-26,michael91@example.net,845.211.0090,Hubbardland,Michigan,India,Premium,False,2024-03-06
+CUST00920,Barbara,Taylor,Male,1980-06-13,wilsondorothy@example.org,(330)888-6843x021,Vegamouth,Massachusetts,India,SME,False,2022-10-27
+CUST00921,Ashley,Hinton,Male,1964-04-28,meganwilliams@example.com,(973)729-0457x5988,South Peterburgh,Colorado,India,Retail,True,2017-12-21
+CUST00922,Jenna,Ramsey,Female,1951-08-30,lee77@example.net,001-821-229-9642,Port Chadburgh,Michigan,India,SME,True,2024-06-10
+CUST00923,Robert,Mason,Male,2001-05-14,matthew23@example.org,436.320.2755,South Jamesshire,Louisiana,India,Corporate,False,2023-07-15
+CUST00924,Darius,Mccann,Female,1991-06-21,burgesscassandra@example.net,577-209-2071x152,Port Mary,Vermont,India,Corporate,True,2025-01-29
+CUST00925,Andrew,Brown,Male,1987-05-20,hamiltonandrew@example.com,(336)921-9215,Lake Wandaside,Michigan,India,SME,True,2024-11-07
+CUST00926,Mark,Kim,Female,1959-12-05,smithdiana@example.com,001-705-391-6118x6385,South David,Florida,India,Premium,True,2020-01-31
+CUST00927,Laurie,Roberson,Male,1966-10-30,vmelton@example.net,001-795-597-7216x8800,South Jacqueline,Missouri,India,SME,True,2023-01-06
+CUST00928,Christine,Peterson,Other,1951-08-15,nturner@example.com,689.731.8692x8972,Port Linda,Arkansas,India,Corporate,True,2022-07-17
+CUST00929,Marilyn,Mack,Other,1979-06-16,fballard@example.org,601-482-2720x0283,Davistown,New Hampshire,India,SME,False,2019-08-01
+CUST00930,Samantha,Friedman,Male,2006-02-26,alexanderrodriguez@example.org,+1-332-320-4144x7432,Shortport,Massachusetts,India,Retail,False,2021-08-03
+CUST00931,Christopher,Sanders,Female,1998-10-29,micheleclark@example.net,(559)493-0202x03042,Georgeshire,Nevada,India,Retail,True,2022-10-29
+CUST00932,Megan,Ayala,Male,1984-07-24,debragraham@example.net,(277)452-1353,Ericborough,Oregon,India,Premium,True,2022-11-01
+CUST00933,John,Johnson,Male,1986-08-16,christophercarrillo@example.org,916.950.6463x00593,North Emily,Vermont,India,SME,False,2020-03-17
+CUST00934,Brianna,Nelson,Other,1958-11-03,hhenderson@example.org,356.891.9832x102,West Kevin,Rhode Island,India,SME,True,2023-05-25
+CUST00935,Alexandria,Riddle,Female,1968-05-21,joannewallace@example.com,+1-517-646-9029x83104,North Justinshire,South Carolina,India,SME,True,2024-06-18
+CUST00936,Randy,Henry,Other,1941-11-27,csmith@example.net,396-862-2913,Colefurt,California,India,SME,True,2021-09-23
+CUST00937,Kyle,Kelly,Male,1993-08-08,jameshudson@example.com,508.805.6856x6706,North Christina,Illinois,India,Premium,True,2024-07-13
+CUST00938,Matthew,Pugh,Other,1992-09-26,cookcurtis@example.net,(619)686-5504,Leestad,Oklahoma,India,Corporate,True,2023-04-09
+CUST00939,Mason,Reynolds,Female,1941-02-22,fpetty@example.net,207-666-3493x3965,Wendyhaven,Iowa,India,Premium,True,2017-12-04
+CUST00940,Gary,Frazier,Male,2002-07-11,benjamin67@example.net,+1-696-427-3226x2611,West Jesse,Delaware,India,Corporate,True,2018-05-12
+CUST00941,William,Guerrero,Male,1984-07-24,dhall@example.net,236-925-8542x188,Donnabury,Alaska,India,Corporate,True,2024-09-25
+CUST00942,Daniel,Miller,Other,1981-06-02,hendersonleslie@example.org,+1-691-596-2341x996,Lake Dwayneland,Alabama,India,Corporate,False,2023-05-02
+CUST00943,William,Montgomery,Female,1941-02-12,patricia67@example.org,285.732.4725,Hardyville,Virginia,India,SME,True,2020-01-13
+CUST00944,Rebecca,Yates,Female,1957-09-14,pdean@example.com,+1-333-734-3031,Ruiztown,Montana,India,Premium,False,2024-11-07
+CUST00945,Michael,Marquez,Female,1995-04-15,bterry@example.org,+1-987-860-5457x69475,Waltersview,Maine,India,Corporate,False,2017-11-23
+CUST00946,Jessica,Miller,Female,1961-04-24,jessica75@example.com,001-945-635-3659,Lake Daniel,Kansas,India,Retail,False,2017-06-20
+CUST00947,Lori,Moore,Female,2006-04-19,williammatthews@example.net,(669)786-1634x2125,North Noahview,Indiana,India,Corporate,True,2020-10-23
+CUST00948,Lisa,Dawson,Male,1984-03-31,sandra72@example.com,7804959481,Port Destiny,Utah,India,Premium,True,2017-12-12
+CUST00949,Joel,Walters,Male,1969-05-12,rmoyer@example.net,001-269-925-5966x47213,West Aaronmouth,Georgia,India,SME,True,2020-08-28
+CUST00950,Dwayne,Singh,Female,1966-02-21,laura29@example.org,623-559-1426x140,North Thomasberg,Idaho,India,Retail,True,2022-05-05
+CUST00951,James,Stewart,Female,1964-04-02,hannah17@example.org,926.814.5430,Mccoyton,Wyoming,India,Corporate,True,2024-12-11
+CUST00952,Carrie,Rodriguez,Male,1957-09-04,jamesobrien@example.org,773.410.0817,Hobbsborough,Wisconsin,India,SME,True,2025-02-04
+CUST00953,Kathleen,Smith,Male,1972-04-11,fhahn@example.com,(711)458-7184,New Crystalton,Nevada,India,Premium,True,2023-03-30
+CUST00954,Diana,Parker,Female,1986-08-04,jasonwilliams@example.org,954.226.8744,South Erikberg,South Dakota,India,Premium,True,2021-06-18
+CUST00955,Gregory,Ward,Female,1996-08-05,nicole52@example.org,573-920-8652,New Sonya,Washington,India,Retail,True,2018-07-24
+CUST00956,Kendra,Nelson,Male,1967-07-20,romanmatthew@example.org,372.696.6563x370,Lake Molly,Wyoming,India,Retail,False,2018-12-25
+CUST00957,Troy,Anderson,Other,1947-07-02,davidwalker@example.com,7052278105,Marissahaven,Georgia,India,Corporate,True,2024-12-31
+CUST00958,Karen,Lopez,Other,1975-04-29,kristen08@example.com,7029722142,Karentown,Florida,India,SME,True,2019-02-13
+CUST00959,Kathleen,Cole,Other,1985-07-31,melissarusso@example.net,+1-931-460-9439x13681,South Dylanhaven,New York,India,SME,False,2021-06-23
+CUST00960,Shane,Peters,Male,1997-11-19,mccarthysara@example.com,8314369552,Stephanieburgh,New Hampshire,India,Premium,True,2021-01-15
+CUST00961,Sandra,Russell,Male,1965-12-27,westes@example.org,001-509-429-7352x5953,Welchland,New Jersey,India,Premium,True,2020-05-26
+CUST00962,Anne,Johnson,Male,1984-07-24,harringtonchelsea@example.org,(427)239-3899,South Amberchester,New Jersey,India,Corporate,True,2022-07-23
+CUST00963,Cynthia,Gomez,Other,1981-12-15,romerogary@example.org,257-935-3236x6185,Lake Carolfurt,Indiana,India,Corporate,True,2016-10-09
+CUST00964,Claudia,Davis,Female,1960-11-02,rhondamoore@example.com,(410)587-0826x9718,East Laurenfurt,Indiana,India,Premium,False,2023-08-08
+CUST00965,Michelle,George,Male,1947-11-22,fgill@example.net,(401)307-1261x5838,Andersonside,California,India,Premium,True,2020-01-29
+CUST00966,Courtney,Nguyen,Male,1944-11-18,mooremichael@example.org,564.584.6735x7422,New Dennistown,Nebraska,India,SME,False,2021-05-20
+CUST00967,Edward,Cruz,Male,2007-10-01,allisonscott@example.com,001-422-428-0194x425,New David,Washington,India,SME,True,2019-03-16
+CUST00968,Carlos,Carter,Other,1984-02-07,sanchezlisa@example.com,(756)206-2953,Lake Katherineburgh,North Carolina,India,SME,True,2020-10-09
+CUST00969,Scott,Hughes,Female,1999-02-14,william14@example.com,(537)231-1804x6741,Leeview,Vermont,India,Corporate,True,2022-04-16
+CUST00970,Kevin,Miller,Other,1958-04-20,qward@example.org,453.884.1852x0136,Josephmouth,Arizona,India,SME,True,2022-01-30
+CUST00971,Joshua,Santana,Other,1988-11-23,karenmoreno@example.org,+1-208-746-3975x61547,Mccoyburgh,Montana,India,Retail,True,2023-04-22
+CUST00972,Brian,Stein,Other,2001-03-22,lauriegutierrez@example.com,749-812-1516x41195,Matthewhaven,Montana,India,Retail,True,2023-05-15
+CUST00973,William,Spence,Male,1960-11-10,hcrane@example.net,909-719-6939x578,Yoderland,Maryland,India,SME,True,2023-08-16
+CUST00974,Lance,Armstrong,Other,1950-09-26,sherry72@example.org,(407)202-0426,North Jill,Washington,India,SME,True,2017-03-26
+CUST00975,Shannon,Jackson,Female,1992-08-05,millerleroy@example.org,597-512-1241,Lisaberg,New Mexico,India,Premium,False,2017-05-28
+CUST00976,Brian,James,Female,2001-09-20,wbrown@example.org,001-369-467-8976x09873,Francisstad,Alaska,India,Premium,True,2024-04-13
+CUST00977,Marie,Taylor,Female,1995-04-24,rachelbrown@example.net,(977)831-9227x60759,South Candice,New Hampshire,India,Corporate,True,2022-08-08
+CUST00978,Chase,Turner,Female,1995-02-07,robert84@example.net,(533)294-3191x654,East Summermouth,Alabama,India,Retail,True,2021-01-14
+CUST00979,Michelle,Snyder,Other,1981-05-06,regina04@example.net,795.923.1202x19150,Johnburgh,Indiana,India,Retail,True,2017-06-14
+CUST00980,Melissa,Brown,Female,1985-06-16,isabellagriffin@example.org,(944)897-4700x0268,Ashleyfurt,Oklahoma,India,Corporate,True,2024-08-11
+CUST00981,Christina,Hamilton,Female,1986-10-31,zterry@example.net,848-567-6497x9741,East Chelseamouth,Mississippi,India,SME,True,2021-03-05
+CUST00982,William,Fisher,Other,1989-08-03,trowe@example.org,(956)504-5006x3553,East Samanthaport,Arkansas,India,SME,True,2018-04-23
+CUST00983,Steven,Washington,Other,1985-02-09,medinapeter@example.net,9963496927,South Lucas,Kansas,India,Corporate,True,2020-09-11
+CUST00984,Angela,Jones,Male,2008-05-15,abigailfernandez@example.org,295-729-6353,Bobbystad,Missouri,India,Retail,True,2016-10-20
+CUST00985,Latoya,King,Other,1958-03-08,huntlarry@example.com,001-470-925-5128,Lake Kathryn,Arizona,India,Retail,False,2016-09-30
+CUST00986,Paula,Wright,Other,1969-01-01,andrewzamora@example.net,(836)743-1594x89895,Walterland,Michigan,India,SME,True,2023-10-18
+CUST00987,Shannon,Weber,Male,1966-12-11,john46@example.net,366-834-5443x4414,Clarkeview,South Carolina,India,Premium,True,2020-10-20
+CUST00988,Lisa,Wheeler,Male,1942-12-11,dennismckenzie@example.com,001-999-639-3449,East Morganview,Massachusetts,India,Corporate,True,2019-12-15
+CUST00989,Denise,Gonzalez,Other,1988-09-09,david17@example.com,494.564.0882,North Michael,Hawaii,India,Corporate,True,2020-10-12
+CUST00990,Marc,Rodriguez,Male,1979-06-10,chaveztonya@example.net,6953862973,Boltonbury,South Carolina,India,SME,False,2018-01-12
+CUST00991,Thomas,Torres,Female,1953-06-15,michaelmitchell@example.net,321.909.7202,Joshuafurt,North Carolina,India,Corporate,False,2024-01-04
+CUST00992,Edward,Rush,Other,1989-12-12,jenniferstone@example.org,001-407-454-8534x65579,Hernandezborough,Maryland,India,Retail,True,2016-07-29
+CUST00993,Bryan,Cook,Male,1955-08-30,murphybrandi@example.com,8303044964,East Ronnie,Florida,India,SME,True,2017-05-25
+CUST00994,Dale,Oliver,Male,1976-11-23,tgarcia@example.com,(493)390-0251,Powellmouth,South Dakota,India,Retail,False,2021-05-13
+CUST00995,Rachel,Brock,Male,1993-11-30,thomasgriffin@example.com,775.765.8963,Campbellland,Maine,India,Premium,True,2020-05-08
+CUST00996,Matthew,Rivera,Male,2002-03-09,hchapman@example.com,+1-670-586-1993x1458,West Bonnie,Colorado,India,Corporate,True,2020-11-16
+CUST00997,Jennifer,Cook,Other,1986-03-25,breanna67@example.net,556-663-1138x850,Faulknerburgh,Washington,India,Corporate,True,2021-07-10
+CUST00998,William,Ochoa,Male,1975-01-15,adennis@example.org,(936)622-0334,Lake Brent,Arizona,India,Retail,True,2022-12-10
+CUST00999,Gerald,Villarreal,Male,1998-01-11,williamwashington@example.com,(846)831-0437,Jacobhaven,South Dakota,India,SME,True,2021-07-17
+CUST01000,John,Mccann,Male,1997-09-14,tammypalmer@example.net,+1-200-485-2946,Lopezchester,New Mexico,India,SME,True,2017-10-18
