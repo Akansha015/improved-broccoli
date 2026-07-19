@@ -19,6 +19,11 @@
 
 ---
 
+## End-to-End Workflow Diagram
+[View on Miro](https://miro.com/app/live-embed/uXjVH6XtfJw=/?embedMode=view_only_without_ui&moveToViewport=-5054%2C-5652%2C17727%2C9210&embedId=69090948995)
+
+---
+
 ## Known Platform Limitations
 
 - **Write-back / "Review & Submit" button:** This does not complete successfully in public embed contexts or on free-trial accounts (Snowflake and Sigma Computing), due to the lack of the grants, privileges, and user roles required to complete the write path.
