@@ -6,7 +6,7 @@ This document walks through the design decisions behind each part of the assessm
 
 ## Architecture Overview
 
-- **Warehouse:** Snowflake, account `bc54621` (Central India, Azure) — database `PC_SIGMA_DB`, schema `SILVER`, structured as a star schema.
+- **Warehouse:** Snowflake — database `PC_SIGMA_DB`, schema `SILVER`, structured as a star schema.
 - **BI / Embedding layer:** Sigma Computing workbook, connected to Snowflake via **OAuth** (not basic username/password auth) — see `Snowflake/Code/Sigma + Snowflake Integration.txt`. OAuth was used specifically because it's required for Sigma's write-back path to operate under a role-scoped, revocable credential rather than a shared static password.
 - **Write-back layer:** A dedicated database, `SIGMA_WRITEBACK.PUBLIC`, separate from the read-only analytical schema (`PC_SIGMA_DB.SILVER`). This separation matters: the role used by Sigma (`PC_SIGMA_ROLE`) is granted `CREATE TABLE`, `CREATE STAGE`, and full `SELECT/INSERT/UPDATE/DELETE/TRUNCATE` only inside `SIGMA_WRITEBACK.PUBLIC` — the analytical schema stays untouched by the write-back mechanism, so a bad write can't corrupt the source-of-truth fact/dimension tables directly.
 
