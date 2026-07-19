@@ -32,6 +32,9 @@
 ## Technical Write-Up
 [Read the full technical write-up](./TECHNICAL_WRITEUP.md) — architecture, data model design, and how the write-back action sequence is actually wired (Sigma view + stored procedure), grounded in the code and screenshots in this repo.
 
+## AI Agent Instructions
+[Read the full agent system prompt](./AGENT_INSTRUCTIONS.md) — the complete instruction set configured for the "Financial Data Analyst" agent (Part 3), covering filter handling, date-range interpretation, partial-digit account search, and the Input Table workflow handoff.
+
 ---
 
 ## Tasks Completed
