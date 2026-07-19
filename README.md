@@ -29,6 +29,11 @@
 
 ---
 
+## Technical Write-Up
+[Read the full technical write-up](./TECHNICAL_WRITEUP.md) — architecture, data model design, and how the write-back action sequence is actually wired (Sigma view + stored procedure), grounded in the code and screenshots in this repo.
+
+---
+
 ## Tasks Completed
 
 ### Part 1 — Data Modeling
