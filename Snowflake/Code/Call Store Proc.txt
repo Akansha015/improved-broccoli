@@ -1,0 +1,45 @@
+CREATE OR REPLACE PROCEDURE SIGMA_WRITEBACK.PROCEDURES.WRITE_BACK_FROM_INPUT_TABLE("SOURCE_TABLE" VARCHAR)
+RETURNS VARCHAR
+LANGUAGE SQL
+EXECUTE AS CALLER
+AS 'BEGIN
+    LET account_rows_updated INTEGER := 0;
+    LET customer_rows_updated INTEGER := 0;
+
+    -- MERGE into DIM_ACCOUNT: update ACCOUNT_STATUS for all edited rows
+    EXECUTE IMMEDIATE
+        ''MERGE INTO PC_SIGMA_DB.SILVER.DIM_ACCOUNT target
+         USING (
+             SELECT ACCOUNT_NUMBER, UPDATED_ACCOUNT_STATUS
+             FROM IDENTIFIER('''''' || SOURCE_TABLE || '''''')
+             WHERE UPDATED_ACCOUNT_STATUS IS NOT NULL
+         ) source
+         ON target.ACCOUNT_NUMBER = source.ACCOUNT_NUMBER
+         WHEN MATCHED THEN UPDATE SET
+             target.ACCOUNT_STATUS = source.UPDATED_ACCOUNT_STATUS'';
+    account_rows_updated := SQLROWCOUNT;
+
+    -- MERGE into DIM_CUSTOMERS: update EMAIL, PHONE_NUMBER, KYC_VERIFIED for all edited rows
+    EXECUTE IMMEDIATE
+        ''MERGE INTO PC_SIGMA_DB.SILVER.DIM_CUSTOMERS target
+         USING (
+             SELECT da.CUSTOMER_ID,
+                    src.UPDATED_EMAIL,
+                    src.UPDATED_PHONE_NUMBER,
+                    src.UPDATED_KYC_VERIFIED
+             FROM IDENTIFIER('''''' || SOURCE_TABLE || '''''') src
+             JOIN PC_SIGMA_DB.SILVER.DIM_ACCOUNT da
+                 ON da.ACCOUNT_NUMBER = src.ACCOUNT_NUMBER
+             WHERE src.UPDATED_EMAIL IS NOT NULL
+                OR src.UPDATED_PHONE_NUMBER IS NOT NULL
+                OR src.UPDATED_KYC_VERIFIED IS NOT NULL
+         ) source
+         ON target.CUSTOMER_ID = source.CUSTOMER_ID
+         WHEN MATCHED THEN UPDATE SET
+             target.EMAIL = COALESCE(source.UPDATED_EMAIL, target.EMAIL),
+             target.PHONE_NUMBER = COALESCE(source.UPDATED_PHONE_NUMBER, target.PHONE_NUMBER),
+             target.KYC_VERIFIED = COALESCE(TRY_TO_BOOLEAN(source.UPDATED_KYC_VERIFIED), target.KYC_VERIFIED)'';
+    customer_rows_updated := SQLROWCOUNT;
+
+    RETURN ''DIM_ACCOUNT: '' || account_rows_updated || '' rows updated. DIM_CUSTOMERS: '' || customer_rows_updated || '' rows updated.'';
+END';

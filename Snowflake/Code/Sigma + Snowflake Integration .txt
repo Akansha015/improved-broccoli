@@ -1,0 +1,55 @@
+Sigma Computing + Snowflake Integration Summary
+Where: Snowflake Account BC54621 (Central India, Azure)
+Step 1: Created Write-Back Database
+Location: Snowflake (run as ACCOUNTADMIN)
+
+sql
+CREATE DATABASE IF NOT EXISTS SIGMA_WRITEBACK;
+-- Schema PUBLIC was created automatically
+Step 2: Created OAuth Security Integration
+Location: Snowflake (run as ACCOUNTADMIN)
+
+sql
+CREATE OR REPLACE SECURITY INTEGRATION SIGMA_OAUTH
+  TYPE = OAUTH
+  OAUTH_CLIENT = CUSTOM
+  OAUTH_CLIENT_TYPE = 'CONFIDENTIAL'
+  OAUTH_REDIRECT_URI = 'https://api.sigmacomputing.com/api/v2/oauth/1/aut'
+  OAUTH_ISSUE_REFRESH_TOKENS = TRUE
+  OAUTH_REFRESH_TOKEN_VALIDITY = 7776000
+  ENABLED = TRUE;
+
+ALTER SECURITY INTEGRATION SIGMA_OAUTH SET OAUTH_USE_SECONDARY_ROLES = IMPLICIT;
+Generated credentials:
+
+Client ID: crpJYWNGal07ILUKIDWH8tRZM8Y=
+Authorization URL: https://bc54621.central-india.azure.snowflakecomputing.com/oauth/authorize
+Step 3: Granted Write-Back Permissions to PC_SIGMA_ROLE
+Location: Snowflake (run as ACCOUNTADMIN)
+
+sql
+GRANT USAGE ON DATABASE SIGMA_WRITEBACK TO ROLE PC_SIGMA_ROLE;
+GRANT USAGE ON SCHEMA SIGMA_WRITEBACK.PUBLIC TO ROLE PC_SIGMA_ROLE;
+GRANT CREATE TABLE ON SCHEMA SIGMA_WRITEBACK.PUBLIC TO ROLE PC_SIGMA_ROLE;
+GRANT CREATE STAGE ON SCHEMA SIGMA_WRITEBACK.PUBLIC TO ROLE PC_SIGMA_ROLE;
+GRANT SELECT, INSERT, UPDATE, DELETE, TRUNCATE
+  ON FUTURE TABLES IN SCHEMA SIGMA_WRITEBACK.PUBLIC TO ROLE PC_SIGMA_ROLE;
+GRANT SELECT, INSERT, UPDATE, DELETE, TRUNCATE
+  ON ALL TABLES IN SCHEMA SIGMA_WRITEBACK.PUBLIC TO ROLE PC_SIGMA_ROLE;
+Step 4: Sigma Connection Settings (UI)
+Location: Sigma Admin > Connections > "Snowflake PC_SIGMA_WH"
+
+Field	Value
+Authentication	OAuth
+OAuth provider	Snowflake
+Scopes	refresh_token
+Authorization URL	https://bc54621.central-india.azure.snowflakecomputing.com/oauth/authorize
+Client ID	crpJYWNGal07ILUKIDWH8tRZM8Y=
+Client Secret	(stored during setup)
+Write destinations	SIGMA_WRITEBACK.PUBLIC
+Materialization warehouse	PC_SIGMA_WH
+Objects Involved
+Role: PC_SIGMA_ROLE (Partner Connect)
+Warehouse: PC_SIGMA_WH
+Write-back DB: SIGMA_WRITEBACK.PUBLIC
+Integration: SIGMA_OAUTH
