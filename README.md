@@ -1,2 +1,2 @@
-# improved-broccoli
+# SIGMA COMPUTING - TECHNICAL ASSESSMENT - BANKING/FINANCIAL DASHBOARD + AGENTIC AI
 Technical Assessment by Akansha Pruthi
